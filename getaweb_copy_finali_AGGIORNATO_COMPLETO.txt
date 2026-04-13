@@ -1,0 +1,1747 @@
+GETAWEB — COPY COMPLETI PAGINE FINALI
+Versione consolidata con pagine di redirect escluse e copy accorpati sulle pagine definitive.
+
+STRUTTURA FINALE
+- /
+- /servizi.html
+- /territorio.html
+- /blog.html
+- /contatti.html
+- /legale.html
+- /servizi/landing-page.html
+- /servizi/siti-web.html
+- /servizi/e-commerce.html
+- /servizi/back-office.html
+- /servizi/copy-e-messaggio.html
+- /servizi/seo-strategica.html
+- /servizi/tracciamento-e-misurazione.html
+- /blog/come-ottimizzare-google-business-profile.html
+- /blog/hai-un-sito-bello-ma-non-genera-richieste.html
+- /blog/pagine-seo-geo-faq-blog-vs-sito-vetrina.html
+- /blog/quanto-conviene-investire-in-un-sito-performante.html
+
+PAGINE IN REDIRECT ESCLUSE DAL FILE
+- /territorio/alba.html
+- /territorio/cuneo.html
+- /territorio/saluzzo.html
+- /territorio/savigliano.html
+- /territorio/torino.html
+- /servizi/architettura-informativa-updated.html
+- /blog/perche-oggi-non-basta-avere-un-sito.html
+- /blog/perche-le-pagine-geo-aiutano-davvero-a-trovare-clienti.html
+
+
+==================================================
+PAGINA: /
+FILE: index.html
+==================================================
+
+META TITLE
+GETAWEB | Avere un sito non basta
+
+META DESCRIPTION
+GETAWEB realizza landing page, siti web, e-commerce e back office digitale per attività locali. Per farti trovare, per farti capire e per farti contattare.
+
+H1
+Avere un sito non basta.
+
+LEAD
+Deve servire a tre cose: farti trovare, farti capire e farti contattare.
+
+PARAGRAFI HERO
+GETAWEB realizza landing page, siti web, e-commerce e back office digitale per attività locali.
+
+Non costruiamo pagine da guardare. Costruiamo strutture pensate per accompagnare chi ti cerca fino al contatto e per mettere ordine in quello che succede dopo.
+
+Il punto non è essere online. Il punto è essere più chiari, più credibili e più facili da contattare della tua concorrenza.
+
+GETAWEB ha base a Busca e lavora con attività locali in tutta Italia.
+
+MICROCOPY
+Analisi rapida. Indicazioni pratiche. Nessun giro di parole.
+
+SEZIONE 1 - H2
+Il problema non è avere un sito. Il problema è avere un sito che non lavora davvero.
+
+COPY
+Se oggi un cliente ti cerca e non capisce subito cosa fai, non trova un motivo per fidarsi, non sa cosa deve fare e non ti contatta, quel sito non ti sta aiutando. Ti sta rallentando.
+
+Molte attività hanno una presenza online che esiste, ma non lavora. Pagine vecchie. Testi vaghi. Percorsi confusi. Nessun punto di contatto forte. Nessun ordine dietro.
+
+Il risultato è semplice: pochi contatti, richieste confuse, tempo perso e spazio lasciato alla concorrenza.
+
+SEZIONE 2 - H2
+Una struttura più chiara, più credibile e più utile.
+
+COPY
+GETAWEB trasforma una presenza online debole in una struttura che accompagna il cliente fino al contatto e ti aiuta a gestire meglio quello che succede dopo.
+
+Non ci interessa mettere online pagine e basta. Ci interessa costruire un sistema che ti aiuti a farti trovare, a farti capire, a farti contattare e a rimettere ordine dietro.
+
+Il lavoro non finisce quando arriva il contatto. Spesso inizia lì.
+
+SEZIONE 3 - H2
+Togliamo confusione. Costruiamo il percorso. Mettiamo ordine.
+
+CARD 1
+Titolo: Bonifica
+Copy: Guardiamo cosa stai comunicando oggi e tagliamo tutto quello che crea confusione.
+
+CARD 2
+Titolo: Percorso
+Copy: Tracciamo la linea più diretta tra chi ti cerca e il tuo contatto.
+
+CARD 3
+Titolo: Blindatura
+Copy: Inseriamo i segnali che servono per capire cosa funziona e cosa no.
+
+CARD 4
+Titolo: Flusso
+Copy: Ti aiutiamo a mettere ordine tra richieste, messaggi, materiali e contatti.
+
+CHIUSURA SEZIONE
+Un sito che funziona non si limita a informare. Conduce.
+
+SEZIONE 4 - H2
+Quattro strumenti. Una logica unica.
+
+INTRO
+Puoi partire da una sola landing page oppure da una struttura più completa. L’obiettivo non è complicare. È costruire il pezzo giusto, al momento giusto.
+
+CARD
+Landing page
+Una pagina chiara, veloce e diretta. Perfetta per un servizio specifico, una campagna o una prima presenza online fatta bene.
+
+CARD
+Siti web
+Strutture più complete per spiegare bene chi sei, cosa fai e perché scegliere te.
+
+CARD
+E-commerce
+Soluzioni per vendere online in modo semplice, ordinato e concreto. Senza complicazioni inutili.
+
+CARD
+Back office
+Supporto operativo per mettere ordine tra richieste, messaggi, contenuti e attività. Per non perdere pezzi per strada.
+
+SEZIONE 5 - H2
+Non lasciare spazio alla concorrenza.
+
+TESTO
+Se un potenziale cliente non ti capisce subito, sceglierà qualcun altro.
+
+COLONNA 1
+Titolo: Sito passivo
+- Esiste, ma non lavora davvero
+- Confusione nei contenuti
+- Pochi punti di contatto chiari
+- Richieste deboli o perse
+
+COLONNA 2
+Titolo: Sistema GETAWEB
+- Più chiaro, più credibile, più facile da contattare
+- Linea più diretta verso il contatto
+- Segnali leggibili e migliorabili
+- Ordine anche dopo il contatto
+
+CHIUSURA
+Molti hanno un sito, ma pochi hanno uno strumento che lavora davvero. Il punto non è essere online, il punto è essere più chiari, più credibili e più facili da contattare della tua concorrenza.
+
+SEZIONE 6 - H2
+Non guardiamo solo il contatto finale. Guardiamo anche cosa succede prima.
+
+COPY
+Chi clicca sul telefono, chi apre la pagina contatti, chi scrive su WhatsApp, chi legge davvero, chi si ferma prima di agire. Questo serve a una cosa sola: capire meglio dove il sistema funziona e dove perde forza.
+
+Non ci servono dashboard piene di rumore. Ci serve sapere cosa accelera il contatto e cosa lo frena.
+
+SEZIONE FAQ - H2
+Le domande che contano prima del contatto
+
+INTRO
+Le FAQ servono a togliere attrito e accompagnare la decisione.
+
+FAQ 1
+Domanda: Mi serve davvero rifare tutto?
+Risposta: No. In molti casi il problema non è rifare tutto, ma capire cosa oggi crea dispersione. A volte basta rimettere ordine in struttura, messaggio e contatti.
+
+FAQ 2
+Domanda: Posso partire con una sola landing page per testare il sistema?
+Risposta: Sì. Se il problema è concentrare meglio una proposta o una campagna, partire da una landing page ha senso. L’importante è che sia costruita bene e inserita in una logica misurabile.
+
+FAQ 3
+Domanda: Lavorate solo a Cuneo?
+Risposta: No. GETAWEB ha base a Busca e lavora con attività locali in tutta Italia.
+
+FAQ 4
+Domanda: Come faccio a capire se funziona?
+Risposta: Guardiamo non solo i contatti finali, ma anche i segnali che li precedono: clic, visite alla pagina contatti, interazioni e punti di uscita.
+
+FAQ 5
+Domanda: Che differenza c’è tra sito e back office?
+Risposta: Il sito accompagna l’utente verso il contatto. Il back office ti aiuta a gestire meglio quello che succede dopo, così da non perdere tempo, richieste e materiali.
+
+CTA FINALE - H2
+Non lasciare spazio alla concorrenza.
+
+CTA COPY
+Assicurati che il tuo sistema digitale stia lavorando per te, non contro di te. Se un potenziale cliente non ti capisce subito, sceglierà qualcun altro.
+
+Analisi rapida. Indicazioni pratiche. Nessun giro di parole.
+
+CTA BUTTON
+Parla con noi
+
+
+==================================================
+PAGINA: /servizi.html
+FILE: servizi.html
+==================================================
+
+META TITLE
+Servizi | GETAWEB
+
+META DESCRIPTION
+Landing page, siti web, e-commerce e back office digitale: i moduli GETAWEB per farti trovare, farti capire e farti contattare.
+
+H1
+Il pezzo giusto, al momento giusto.
+
+LEAD
+Puoi partire da una sola presenza digitale oppure da una struttura più completa.
+
+PARAGRAFI INTRO
+L’obiettivo non è complicare. È costruire una presenza online più chiara, più credibile e più utile.
+
+Ogni modulo può vivere da solo. Ma più pezzi colleghi, più la tua infrastruttura digitale diventa forte.
+
+BLOCCO LOGICA
+Struttura
+Presenza digitale, ufficio digitale, negozio digitale e back office digitale.
+
+Ingresso
+Ti trovano e ti contattano.
+
+Spiegazione
+Capiscono chi sei e cosa fai.
+
+Vendita
+Comprano online in modo semplice.
+
+Ordine
+Gestisci meglio quello che succede dopo.
+
+H2
+I 4 servizi principali
+
+INTRO
+Ogni card porta a una pagina dedicata. Nessun servizio lasciato generico.
+
+CARD
+Presenza digitale
+La porta d’ingresso minima: una pagina chiara, veloce e diretta per farti trovare e farti contattare.
+
+CARD
+Siti web
+Strutture più complete per spiegare bene chi sei, cosa fai e perché scegliere te.
+
+CARD
+E-commerce
+Soluzioni per vendere online in modo semplice, ordinato e concreto.
+
+CARD
+Back office
+Supporto operativo per mettere ordine tra richieste, messaggi, materiali e attività.
+
+H2
+Da dove partire
+
+COPY
+Il punto non è comprare tutto. Il punto è iniziare dal modulo che oggi risolve il problema più evidente.
+
+- Parti dalla presenza digitale se oggi ti manca una porta d’ingresso chiara.
+- Parti dai siti web se devi spiegare meglio chi sei, cosa fai e dove operi.
+- Parti dall’e-commerce se vuoi far comprare online in modo semplice.
+- Parti dal back office se il problema vero è il caos dopo il contatto.
+
+H2
+Domande frequenti
+
+FAQ 1
+Domanda: La presenza digitale è solo una landing page?
+Risposta: È la porta d’ingresso minima, ma fatta bene. Può coincidere con una landing page oppure con una pagina singola molto chiara e orientata al contatto.
+
+FAQ 2
+Domanda: Quando ha senso partire dalla presenza digitale?
+Risposta: Quando oggi il problema principale è che ti trovano poco o non ti contattano in modo chiaro.
+
+FAQ 3
+Domanda: Quando è meglio un sito web invece di una sola pagina?
+Risposta: Quando devi spiegare più cose, più servizi, più differenze o più territori.
+
+FAQ 4
+Domanda: Quante pagine deve avere un sito web?
+Risposta: Solo quelle utili. Non di più, non di meno.
+
+FAQ 5
+Domanda: Serve per forza un e-commerce complesso?
+Risposta: No. L’obiettivo è vendere in modo ordinato e concreto, non complicarti la vita.
+
+FAQ 6
+Domanda: L’e-commerce serve solo a chi ha tanti prodotti?
+Risposta: No. Può avere senso anche con pochi prodotti se il catalogo è chiaro e l’acquisto è semplice.
+
+FAQ 7
+Domanda: Il back office sostituisce sito o presenza digitale?
+Risposta: No. Il back office non sostituisce il fronte pubblico. Serve a mettere ordine dietro.
+
+FAQ 8
+Domanda: Quando ha senso lavorare sul back office?
+Risposta: Quando il problema vero non è solo il sito, ma la gestione disordinata di richieste, materiali e contatti.
+
+CTA FINALE
+Parti dal modulo giusto.
+
+COPY
+Non serve costruire tutto subito. Serve capire qual è il pezzo che oggi ti fa perdere più forza.
+
+BUTTON
+Richiedi una consulenza
+
+
+==================================================
+PAGINA: /territorio.html
+FILE: territorio.html
+NUOVA VERSIONE ACCORPATA
+==================================================
+
+META TITLE
+Territorio | GETAWEB
+
+META DESCRIPTION
+GETAWEB lavora con imprese e attività locali che vogliono chiarire meglio l’offerta, farsi capire più in fretta e facilitare il contatto diretto.
+
+H1
+Territorio: dove lavoriamo e come supportiamo le imprese locali
+
+LEAD
+GETAWEB lavora con attività e imprese che vogliono rendere più chiaro il proprio sito, spiegare meglio l’offerta e facilitare il contatto diretto.
+
+H2
+Un territorio fatto di imprese, professionisti e attività locali
+
+COPY
+Ogni città ha dinamiche diverse, ma un punto in comune resta lo stesso: il sito deve aiutare l’utente a capire meglio l’offerta e a compiere il passo successivo con meno attrito.
+
+Molte attività lavorano bene offline, ma online non spiegano in modo chiaro servizi, differenze e punti di forza.
+
+Quando i percorsi sono confusi o i contatti sono poco visibili, una parte dell’interesse si disperde prima di diventare richiesta.
+
+H2
+Il problema non è esserci online
+
+COPY
+In molti casi la presenza online esiste già. Il punto critico è come viene organizzata: messaggio poco leggibile, struttura debole e percorsi che non accompagnano davvero l’utente verso il contatto.
+
+H2
+Le aree in cui lavoriamo
+
+INTRO
+Lavoriamo con attività e imprese locali in contesti diversi, ma con la stessa logica: rendere più chiaro il valore dell’offerta e più semplice il primo passo verso il contatto.
+
+BLOCCO
+Cuneo
+Per imprese e attività locali che vogliono migliorare la chiarezza dell’offerta e il contatto diretto.
+
+BLOCCO
+Saluzzo
+Per attività locali che vogliono rendere più leggibile il proprio valore e facilitare il primo contatto.
+
+BLOCCO
+Savigliano
+Per imprese che vogliono trasformare il sito in uno strumento commerciale più chiaro e utile.
+
+BLOCCO
+Alba e Langhe
+Per attività che vogliono ridurre la dipendenza da intermediari e gestire meglio l’interesse turistico.
+
+BLOCCO
+Torino
+Per professionisti e aziende che vogliono distinguersi in un mercato più competitivo.
+
+H2
+Come lavoriamo con le imprese locali
+
+CARD 1
+Titolo: Capire il contesto
+Copy: Analizziamo territorio, domanda locale e modo in cui l’attività viene percepita online.
+
+CARD 2
+Titolo: Chiarire l’offerta
+Copy: Rendiamo più leggibili servizi, specializzazioni e differenze che meritano di emergere.
+
+CARD 3
+Titolo: Strutturare il sito
+Copy: Organizziamo contenuti e percorsi per accompagnare meglio l’utente verso la richiesta.
+
+CARD 4
+Titolo: Migliorare il contatto
+Copy: Riduciamo attrito e dispersione per rendere più semplice il primo passo verso il confronto.
+
+H2
+Servizi che supportano questo lavoro
+
+COPY
+Le leve che aiutano a rendere il sito più chiaro, più utile e più orientato al contatto: siti web, copy e messaggio, SEO strategica, pagine GEO quando hanno senso, e tracciamento per leggere cosa succede davvero.
+
+CTA FINALE - H2
+Parliamo del tuo sito
+
+COPY
+Se vuoi capire come rendere più chiaro il tuo sito, spiegare meglio l’offerta e facilitare il contatto diretto, il primo confronto serve proprio a mettere a fuoco da dove partire.
+
+BUTTON
+Contattaci
+
+
+==================================================
+PAGINA: /blog.html
+FILE: blog.html
+==================================================
+
+META TITLE
+Blog | GETAWEB
+
+META DESCRIPTION
+Guide, analisi e contenuti operativi su SEO, siti web performanti, domanda locale, conversione e crescita per attività locali.
+
+H1
+Blog di SEO, siti web performanti e crescita locale
+
+LEAD
+Guide, analisi e contenuti operativi per capire come costruire un sito che intercetta domanda, riduce dispersione e supporta davvero visibilità, fiducia e conversione.
+
+H2
+Perché esiste questo blog
+
+COPY
+Questo blog non nasce per riempire il sito con articoli generici. Nasce per spiegare in modo chiaro cosa rende un sito davvero utile: struttura, performance, pagine ben progettate, SEO locale, contenuti che rispondono a domande reali e percorsi che accompagnano verso il contatto.
+
+H2
+Esplora per tema
+
+SEO & Local SEO
+Posizionamento organico, domanda locale, Google Business Profile, pagine GEO e struttura SEO che aiuta a farsi trovare nel momento giusto.
+
+Siti Web
+Performance, UX, struttura delle pagine, FAQ, interlinking, architettura e tutto ciò che distingue un sito utile da una semplice vetrina.
+
+Strategia
+Decisioni, priorità, investimenti e logiche che collegano traffico, struttura, misurazione e contatto.
+
+H2
+Articoli in evidenza
+
+Card 1
+Come ottimizzare Google Business Profile passo dopo passo
+Una guida concreta per migliorare la presenza locale e rendere la scheda più utile nel generare fiducia e contatti.
+
+Card 2
+Hai un sito bello ma non genera richieste?
+Il problema spesso non è il design, ma la struttura della pagina, il messaggio e il modo in cui il sito accompagna l’utente.
+
+Card 3
+Perché oggi non basta avere un sito
+Un sito non compete solo sul design: compete su struttura, profondità, chiarezza e capacità di guidare l’utente.
+
+H2
+Dalla lettura alla struttura
+
+COPY
+Capire cosa non funziona è il primo passo. Il secondo è costruire un sito che regga davvero: architettura, performance, pagine giuste, FAQ, GEO e contenuti pensati per accompagnare l’utente verso il contatto.
+
+H2
+Domande frequenti
+
+FAQ
+Che cosa vuol dire davvero “sito utile”?
+Non un semplice sito vetrina. Significa un sistema fatto di pagine, contenuti, percorsi, contatti e tracciamento costruiti per farsi trovare, spiegare bene l’offerta e trasformare interesse in richieste.
+
+FAQ
+Cosa rende un sito performante?
+Velocità, chiarezza, struttura pulita, buon comportamento da mobile, percorsi semplici e meno attrito possibile verso il contatto. Non solo bello: veloce, leggibile e utile.
+
+FAQ
+Il blog aiuta davvero?
+Aiuta solo se è fatto bene. Se risponde a domande reali, intercetta ricerche utili e si collega ai servizi, può portare traffico qualificato e fiducia. Se è generico, è solo riempitivo.
+
+FAQ
+Che differenza c’è tra SEO, GEO e landing page?
+SEO è il lavoro per farti trovare su Google. GEO è una pagina pensata per una zona o città specifica. Landing page è una pagina costruita per portare l’utente a compiere un’azione precisa. Sono tre cose diverse, ma possono lavorare insieme.
+
+FAQ
+Quanto conta la velocità?
+Tantissimo. Un sito lento perde attenzione, fiducia e richieste. Più l’utente aspetta, più aumenta la probabilità che esca prima di contattarti.
+
+CTA FINALE
+Vuoi trasformare queste idee in una struttura reale?
+
+COPY
+Se il tuo sito oggi disperde traffico, non chiarisce il valore che offri o non intercetta abbastanza domanda, possiamo aiutarti a costruire un impianto più solido.
+
+BUTTON
+Parliamone
+
+
+==================================================
+PAGINA: /contatti.html
+FILE: contatti.html
+==================================================
+
+META TITLE
+Contatti | GETAWEB
+
+META DESCRIPTION
+Contatta GETAWEB per richieste su siti web, landing page, e-commerce, struttura digitale, SEO, tracciamento e miglioramento del contatto.
+
+H1
+Parliamo del tuo sito
+
+LEAD
+Se vuoi capire come rendere più chiara la tua offerta, migliorare struttura, visibilità e capacità di generare contatti, puoi scriverci qui.
+
+BLOCCO CONTATTI DIRETTI
+WhatsApp
+Canale più rapido
+
+Telefono
++39 351 611 2099
+
+Email
+info@getaweb.it
+
+H2
+Invia un messaggio
+
+COPY
+Dopo il click si aprirà WhatsApp con tutti i dati del modulo già compilati sul numero +39 351 611 2099.
+
+CAMPI
+Nome
+Telefono o email
+Messaggio
+
+H2
+Dettagli
+
+Sede
+Via San Giovanni Bosco 12, 12022 Busca (CN)
+
+Telefono
++39 351 611 2099
+
+Email
+info@getaweb.it
+
+Area principale
+Cuneo e provincia
+
+H2
+Quando scriverci
+
+COPY
+Se il tuo sito è lento, poco chiaro, non spiega bene l’offerta o non trasforma abbastanza interesse in contatti, il punto di partenza è qui.
+
+BUTTON
+Invia su WhatsApp
+
+
+==================================================
+PAGINA: /legale.html
+FILE: legale.html
+==================================================
+
+META TITLE
+Privacy Policy, Cookie Policy e Note legali | GETAWEB
+
+META DESCRIPTION
+Informazioni essenziali su trattamento dati, cookie e note legali del sito GETAWEB.
+
+H1
+Privacy Policy, Cookie Policy e Note legali
+
+INTRO
+Questa pagina raccoglie le informazioni essenziali su trattamento dati, cookie e note legali del sito GETAWEB.
+
+H2
+Privacy Policy
+
+COPY
+Quando compili un form o contatti GETAWEB, i dati inseriti vengono usati solo per rispondere alla richiesta, fornire informazioni sul servizio richiesto o proseguire il contatto commerciale richiesto dall’utente.
+
+I dati non vengono ceduti a terzi per finalità estranee al servizio. L’utente può chiedere accesso, rettifica o cancellazione scrivendo a info@getaweb.it.
+
+H2
+Cookie Policy
+
+COPY
+Il sito può usare cookie tecnici necessari al funzionamento e strumenti analytics solo dopo consenso, quando previsto. Il banner permette di accettare o rifiutare il tracciamento non essenziale.
+
+La scelta può essere aggiornata cancellando i dati del browser o modificando le preferenze del dispositivo.
+
+H2
+Note legali
+
+COPY
+I contenuti del sito hanno finalità informativa e commerciale. Testi, struttura e materiali originali di GETAWEB non possono essere copiati o riutilizzati senza autorizzazione.
+
+Per richieste legali o privacy: info@getaweb.it.
+
+
+==================================================
+PAGINA: /servizi/landing-page.html
+FILE: servizi/landing-page.html
+==================================================
+
+META TITLE
+Landing page | GETAWEB
+
+META DESCRIPTION
+Una landing page GETAWEB serve a ridurre attrito, chiarire l’offerta e accompagnare l’utente verso il contatto in modo più diretto.
+
+H1
+Una pagina pensata per accompagnare l’utente verso l’azione
+
+LEAD
+Una landing page non serve solo a presentare un servizio. Serve a ridurre attrito, chiarire l’offerta e aiutare l’utente a capire più rapidamente perché contattarti.
+
+INTRO
+GETAWEB lavora sulle landing page come parte di un sistema: intercettare la domanda, guidare l’azione, leggere i segnali e migliorare nel tempo ciò che la pagina produce.
+
+H2
+Problema tipico
+
+COPY
+Molte pagine parlano del servizio, ma non aiutano davvero l’utente a orientarsi. Il messaggio è debole, la struttura è confusa, la CTA arriva troppo tardi o non è abbastanza chiara.
+
+Il risultato è che l’interesse c’è, ma non si trasforma in contatto.
+
+H2
+Cosa miglioriamo
+
+COPY
+L’utente non capisce subito cosa fai, per chi è il servizio e perché dovrebbe approfondire.
+
+La pagina contiene informazioni, ma non costruisce un percorso chiaro verso l’azione.
+
+H2
+Quando ha senso intervenire
+
+COPY
+L’utente arriva fino a un certo punto, ma non trova un invito coerente con il momento della decisione.
+
+GETAWEB costruisce landing page pensate per accompagnare l’utente dalla domanda al contatto. Ogni sezione ha una funzione: chiarire il problema, rendere leggibile la soluzione, ridurre dubbi e sostenere l’azione.
+
+Titolo, sottotitolo e primi blocchi devono far capire subito all’utente di essere nel posto giusto.
+
+La pagina non deve solo informare. Deve accompagnare, con una sequenza chiara e leggibile.
+
+H2
+Approccio GETAWEB
+
+COPY
+Prima si chiarisce l’obiettivo della pagina. Poi si sistemano struttura, messaggio e contatto. Solo dopo si rifinisce il resto.
+
+L’obiettivo non è sembrare più complessi. È rendere la pagina più comprensibile, più leggibile e più utile nel momento in cui deve portare all’azione.
+
+CTA
+Richiedi una consulenza
+
+
+==================================================
+PAGINA: /servizi/siti-web.html
+FILE: servizi/siti-web.html
+==================================================
+
+META TITLE
+Siti web | GETAWEB
+
+META DESCRIPTION
+Siti web GETAWEB per attività locali: più chiari, più credibili e più utili per spiegare chi sei e accompagnare verso il contatto.
+
+H1
+Avere un sito non basta. Deve aiutarti a farti capire e a farti contattare.
+
+LEAD
+Un sito web utile non è una pagina online in più. È una struttura che aiuta chi arriva a capire meglio chi sei, cosa fai e perché dovrebbe sceglierti.
+
+H2
+Cosa deve fare davvero un sito
+
+COPY
+Un sito utile deve fare quattro cose: farti trovare, farti capire, farti fidare e rendere semplice il passaggio verso il contatto.
+
+Se queste quattro cose non succedono, il sito esiste ma non lavora davvero.
+
+H2
+Quando ha senso un sito web
+
+COPY
+Ha senso quando una sola pagina inizia a stare stretta.
+
+Quando devi spiegare più servizi, più differenze, più territori o più casi, serve una struttura più completa.
+
+Un sito web non serve a sembrare più grandi. Serve a essere più chiari.
+
+H2
+Cosa miglioriamo
+
+COPY
+Organizziamo le pagine in modo che l’utente capisca dove si trova, cosa deve leggere prima e quale passo compiere dopo.
+
+Lavoriamo su struttura, titoli, percorsi, contenuti, FAQ e CTA per togliere attrito e rendere più leggibile l’offerta.
+
+H2
+Approccio GETAWEB
+
+COPY
+Prima mettiamo ordine. Poi costruiamo il percorso. Solo dopo rifiniamo.
+
+Un sito web fatto bene non nasce da pagine sparse. Nasce da una logica chiara.
+
+FAQ
+Quando è meglio un sito invece di una sola pagina?
+Quando devi spiegare più cose e una sola pagina rischia di comprimere troppo.
+
+Quante pagine servono?
+Solo quelle utili. Non di più.
+
+Posso partire piccolo?
+Sì. Anche un sito essenziale può essere già molto più utile di una presenza confusa.
+
+CTA
+Parla con noi
+
+
+==================================================
+PAGINA: /servizi/e-commerce.html
+FILE: servizi/e-commerce.html
+==================================================
+
+META TITLE
+E-commerce | GETAWEB
+
+META DESCRIPTION
+E-commerce GETAWEB per vendere online in modo semplice, ordinato e concreto, senza complicazioni inutili.
+
+H1
+Vendere online non vuol dire complicarsi la vita.
+
+LEAD
+Un e-commerce utile deve rendere semplice capire il prodotto, fidarsi e acquistare.
+
+PARAGRAFI HERO
+Se la struttura è confusa, il catalogo è disordinato o il percorso è pesante, l’utente si ferma prima.
+
+H2
+Cosa deve fare un e-commerce
+
+COPY
+Un e-commerce utile non nasce per stupire. Nasce per vendere in modo chiaro.
+
+Deve aiutare l’utente a capire il prodotto, trovare ciò che cerca, fidarsi e acquistare senza attrito inutile.
+
+H2
+Dove si perde forza
+
+COPY
+Molti shop online si complicano troppo: categorie confuse, schede prodotto deboli, percorso di acquisto pesante, troppi passaggi, poca chiarezza sui vantaggi.
+
+Quando succede, l’utente abbandona prima.
+
+H2
+Come lavoriamo
+
+COPY
+GETAWEB costruisce e-commerce pensati per essere ordinati, leggibili e concreti.
+
+Partiamo da struttura, categorie, priorità, schede prodotto, fiducia e percorso di acquisto. Solo dopo rifiniamo il resto.
+
+H2
+Quando ha senso
+
+COPY
+Ha senso quando vuoi vendere online senza trasformare il sito in un sistema complesso da gestire.
+
+Non serve avere migliaia di prodotti. Serve avere una logica chiara.
+
+CTA
+Richiedi una consulenza
+
+
+==================================================
+PAGINA: /servizi/back-office.html
+FILE: servizi/back-office.html
+NUOVA VERSIONE ACCORPATA
+==================================================
+
+META TITLE
+Back office digitale | GETAWEB
+
+META DESCRIPTION
+Un back office digitale GETAWEB aiuta a mettere ordine tra richieste, contatti, materiali e passaggi operativi, così da perdere meno pezzi per strada.
+
+H1
+Back office digitale per gestire meglio richieste e contatti
+
+LEAD
+Un sito utile non si ferma alla grafica. Deve aiutare a capire, contattare e gestire meglio le richieste che arrivano.
+
+H2
+Cosa guardiamo
+
+COPY
+Analizziamo percorso utente, punti di contatto, richieste in ingresso e chiarezza dell’offerta.
+
+L’obiettivo è far lavorare meglio sito e comunicazione, senza appesantire il processo.
+
+H2
+Perché serve
+
+COPY
+Molte attività non perdono contatti perché nessuno scrive. Li perdono perché dopo il primo contatto si apre confusione: messaggi sparsi, richieste poco chiare, materiali mancanti, passaggi non definiti.
+
+Il back office serve a rimettere ordine proprio lì.
+
+H2
+Quando serve
+
+- Quando arrivano poche richieste o richieste confuse.
+- Quando il sito è presente ma non accompagna bene all’azione.
+- Quando non sai cosa stai misurando davvero.
+- Quando i contatti arrivano, ma si disperdono nei passaggi successivi.
+- Quando manca un flusso chiaro tra richiesta, risposta e gestione.
+
+H2
+Cosa miglioriamo
+
+COPY
+Mettiamo ordine tra punti di contatto, materiali, richieste e prossimi passi.
+
+Rendiamo più leggibile cosa succede prima e dopo il contatto.
+
+Aiutiamo a ridurre tempi morti, dispersione e confusione operativa.
+
+H2
+Approccio GETAWEB
+
+COPY
+Prima si chiarisce il percorso. Poi si sistemano struttura, messaggio, contatto e gestione.
+
+L’obiettivo non è aggiungere complessità. È togliere attrito, velocizzare la risposta e perdere meno opportunità per strada.
+
+CTA
+Contattaci
+
+
+==================================================
+PAGINA: /servizi/copy-e-messaggio.html
+FILE: servizi/copy-e-messaggio.html
+==================================================
+
+META TITLE
+Copy e messaggio | GETAWEB
+
+META DESCRIPTION
+GETAWEB lavora su copy e messaggio per chiarire l’offerta, ridurre attrito e aiutare l’utente a capire più rapidamente perché dovrebbe contattarti.
+
+H1
+Rendere l’offerta più leggibile, prima ancora di cercare di convincere
+
+LEAD
+Il problema spesso non è che il servizio non funziona. È che il sito non riesce a spiegarlo bene.
+
+INTRO
+GETAWEB lavora su copy e messaggio per chiarire l’offerta, ridurre attrito e aiutare l’utente a capire più rapidamente perché dovrebbe contattarti.
+
+H2
+Problema tipico
+
+COPY
+Molti siti usano testi generici, pieni di formule già viste o troppo vaghe per aiutare davvero la decisione.
+
+L’utente legge, ma non capisce fino in fondo cosa fai, per chi lo fai e perché dovrebbe scegliere proprio quel percorso.
+
+H2
+Cosa miglioriamo
+
+COPY
+Rendiamo più chiaro il rapporto tra problema dell’utente, servizio proposto e azione richiesta.
+
+Non si tratta di scrivere “meglio” in astratto, ma di scrivere in modo più utile per la pagina e per il momento decisionale.
+
+H2
+Quando ha senso intervenire
+
+COPY
+I testi sembrano corretti, ma non aiutano l’utente a orientarsi.
+
+Il copy descrive, ma non accompagna.
+
+Se l’utente non capisce bene, difficilmente agirà.
+
+H2
+Approccio GETAWEB
+
+COPY
+Prima si chiarisce l’obiettivo della pagina. Poi si sistemano struttura, messaggio e contatto. Solo dopo si rifinisce il resto.
+
+L’obiettivo non è sembrare più complessi. È rendere il sito più comprensibile, più misurabile e più utile per chi lo visita.
+
+CTA
+Richiedi una consulenza
+
+
+==================================================
+PAGINA: /servizi/seo-strategica.html
+FILE: servizi/seo-strategica.html
+==================================================
+
+META TITLE
+SEO Strategica | GETAWEB
+
+META DESCRIPTION
+La SEO strategica GETAWEB serve a intercettare la domanda giusta, prima che diventi un contatto per altri.
+
+H1
+Intercettare la domanda giusta, prima che diventi un contatto per altri
+
+LEAD
+La SEO strategica non serve solo a portare visite. Serve a farti trovare da utenti che stanno già cercando ciò che offri, nel momento in cui il bisogno è reale.
+
+INTRO
+GETAWEB lavora sulla SEO come parte di un sistema: intercettare la domanda, guidare l’utente verso l’azione, leggere i segnali utili e migliorare nel tempo ciò che il sito produce.
+
+H2
+Problema tipico
+
+COPY
+Molti siti esistono, ma non presidiano davvero le ricerche che contano.
+
+Oppure attirano traffico poco utile, generico, distante dall’intenzione reale dell’utente.
+
+Il risultato è una presenza online che occupa spazio, ma non accompagna decisioni.
+
+H2
+Cosa miglioriamo
+
+COPY
+Lavoriamo sulle ricerche che esprimono un bisogno reale.
+
+Titoli, contenuti, struttura e CTA devono aiutare l’utente a capire rapidamente di essere nel posto giusto.
+
+La SEO funziona meglio quando non si limita a portare traffico, ma porta sul sito utenti più vicini all’azione.
+
+H2
+Quando ha senso intervenire
+
+COPY
+Anche quando il sito viene trovato, non sempre accompagna bene l’utente verso un’azione leggibile.
+
+Si parte dalle ricerche che esprimono un bisogno reale, non da liste di keyword scollegate dal contesto.
+
+H2
+Approccio GETAWEB
+
+COPY
+Prima si chiarisce l’obiettivo della pagina. Poi si sistemano struttura, messaggio e contatto. Solo dopo si rifinisce il resto.
+
+L’obiettivo non è sembrare più complessi. È rendere il sito più comprensibile, più misurabile e più utile.
+
+CTA
+Richiedi una consulenza
+
+
+==================================================
+PAGINA: /servizi/tracciamento-e-misurazione.html
+FILE: servizi/tracciamento-e-misurazione.html
+==================================================
+
+META TITLE
+Tracciamento e misurazione | GETAWEB
+
+META DESCRIPTION
+GETAWEB lavora sul tracciamento per leggere i segnali giusti, capire cosa il sito sta producendo e migliorare ciò che conta davvero.
+
+H1
+Leggere i segnali giusti per capire cosa il sito sta davvero producendo
+
+LEAD
+Un sito utile non si valuta solo dai contatti finali. Si capisce meglio quando si leggono anche i segnali che precedono l’azione.
+
+INTRO
+GETAWEB lavora sul tracciamento per rendere più leggibile ciò che accade nel percorso dell’utente e usare questi segnali per migliorare il sistema.
+
+H2
+Problema tipico
+
+COPY
+Molti siti raccolgono visite, ma non riescono a capire cosa succede davvero prima del contatto.
+
+Si vedono i numeri finali, ma non il percorso che li genera.
+
+Così diventa difficile capire cosa funziona, cosa blocca e dove conviene intervenire.
+
+H2
+Cosa miglioriamo
+
+COPY
+Osserviamo non solo il contatto finale, ma anche ciò che lo precede: clic, percorsi, punti di uscita, sezioni rilevanti e segnali di interesse.
+
+L’obiettivo non è riempire dashboard, ma capire meglio come il sito accompagna l’azione.
+
+H2
+Quando ha senso intervenire
+
+COPY
+CTA, scroll, accessi alla pagina contatti e interazioni restano poco leggibili.
+
+Senza segnali utili, anche il miglioramento del sito diventa più incerto.
+
+Serve capire quando l’azione avviene e dove si interrompe.
+
+H2
+Approccio GETAWEB
+
+COPY
+Prima si chiarisce l’obiettivo della pagina. Poi si sistemano struttura, messaggio e contatto. Solo dopo si rifinisce il resto.
+
+L’obiettivo non è sembrare più complessi. È rendere il sito più leggibile e migliorabile.
+
+CTA
+Richiedi una consulenza
+
+
+==================================================
+PAGINA: /blog/come-ottimizzare-google-business-profile.html
+FILE: blog/come-ottimizzare-google-business-profile.html
+==================================================
+
+META TITLE
+Come ottimizzare Google Business Profile | GETAWEB
+
+META DESCRIPTION
+Ottimizzare Google Business Profile è fondamentale per farti trovare su Search e Maps. Ma se vuoi davvero migliorare, non basta apparire.
+
+H1
+Come ottimizzare Google Business Profile
+
+LEAD
+Ottimizzare Google Business Profile è fondamentale per farti trovare su Search e Maps. Ma se vuoi davvero migliorare, non basta apparire: devi collegare la scheda a un sito che spieghi meglio, tracci di più e ti faccia evolvere nel tempo.
+
+H2
+Perché conta
+
+COPY
+Molte attività locali si fermano a metà. Sistemano la scheda Google Business Profile e pensano di aver fatto tutto.
+
+In realtà la scheda è solo l’inizio. Serve per farti comparire. Ma non basta da sola a spiegare bene la tua offerta, a misurare davvero il comportamento degli utenti e soprattutto a costruire evoluzione.
+
+La scheda deve essere verificata e completa. Senza verifica non controlli davvero il profilo. E senza completezza dai a Google e alle persone un segnale debole.
+
+H2
+Cosa guardare
+
+COPY
+La categoria principale pesa tantissimo. Se è debole o troppo generica, la scheda parte già peggio.
+
+Lo stesso vale per servizi e descrizione: devono chiarire nel modo più preciso possibile cosa fai davvero.
+
+Una scheda viva rassicura: foto, aggiornamenti, recensioni e contenuti recenti non sono solo “bellezza”, ma credibilità operativa.
+
+H2
+Cosa succede quando manca il sito
+
+COPY
+Sulla scheda puoi mostrare contatti, orari, recensioni, posizione e alcune informazioni utili.
+
+Ma quando l’utente vuole capire meglio servizi, differenze, dettagli, territori coperti, prove e motivi per scegliere te, ha bisogno del sito.
+
+Con la sola scheda vedi una parte del quadro. Con il sito e il tracciamento inizi a capire molto di più.
+
+H2
+Come intervenire
+
+COPY
+Search Console ti aiuta a leggere query, clic, impressioni, CTR e posizione.
+
+GA4 ti mostra cosa succede una volta atterrato sul sito: landing page, engagement, eventi, clic sulle CTA, città, percorso, permanenza.
+
+Ed è qui che il sito diventa davvero una infrastruttura digitale. Perché non si limita a ricevere traffico: lo legge, lo interpreta e ti permette di migliorare.
+
+H2
+Cosa guardare in pratica
+
+- Categoria principale corretta
+- Servizi chiari
+- Descrizione precisa
+- Foto e aggiornamenti recenti
+- Recensioni e risposte
+- Link verso un sito capace di spiegare meglio
+- Search Console e GA4 per leggere cosa succede davvero
+
+CONCLUSIONE
+La scheda apre. Il sito chiude. Il tracciamento insegna. Il miglioramento continuo fa evolvere il sistema.
+
+CTA
+Parliamone
+
+
+==================================================
+PAGINA: /blog/hai-un-sito-bello-ma-non-genera-richieste.html
+FILE: blog/hai-un-sito-bello-ma-non-genera-richieste.html
+NUOVA VERSIONE ACCORPATA CON /blog/perche-oggi-non-basta-avere-un-sito.html
+==================================================
+
+META TITLE
+Hai un sito bello ma non genera richieste? | GETAWEB
+
+META DESCRIPTION
+Un sito può essere gradevole e comunque non portare contatti. Il problema spesso non è il design, ma chiarezza, struttura, velocità e percorso verso l’azione.
+
+H1
+Hai un sito bello ma non genera richieste? Il problema spesso non è il design
+
+LEAD
+Un sito può essere gradevole, moderno e curato, e comunque non portare contatti. Succede quando la forma copre un problema più serio: l’utente non capisce subito cosa fai, per chi lo fai, perché dovrebbe fidarsi e quale passo deve compiere.
+
+H2
+Perché conta
+
+COPY
+Molte aziende credono che il problema sia il look del sito. Pensano che basti rifare grafica, palette, immagini o animazioni per ottenere più richieste.
+
+In realtà, quando un sito non genera contatti, il nodo spesso è altrove: l’utente non capisce subito cosa fai, per chi lo fai, perché dovrebbe fidarsi e quale azione dovrebbe compiere.
+
+Il design non va contro la conversione. Ma da solo non basta a produrla.
+
+Se sopra la piega il sito non spiega bene offerta, beneficio e prossimo passo, il problema non è che non è abbastanza bello. Il problema è che non è abbastanza chiaro.
+
+H2
+Perché oggi non basta avere un sito
+
+COPY
+Un sito oggi non deve solo esistere. Deve intercettare domanda, chiarire il valore che offri, ridurre attrito, accompagnare l’utente verso il contatto e rendere leggibile ciò che succede.
+
+Molte aziende trattano ancora il sito come una brochure digitale. Lo pubblicano, lo lasciano lì e si aspettano che faccia presenza.
+
+Ma un sito che vuole generare clienti deve fare di più: deve chiarire cosa offri, a chi ti rivolgi, quale problema risolvi e quale passo vuoi che l’utente compia.
+
+Qui sta la differenza tra una presenza online e una infrastruttura digitale. La prima si limita a esistere. La seconda intercetta, orienta, converte, traccia e migliora.
+
+H2
+Cosa succede quando manca
+
+COPY
+Un sito che funziona mette ordine. Fa capire subito dove si trova l’utente, quali servizi esistono, cosa è più importante e come si passa da informazione a contatto.
+
+Qui entrano in gioco gerarchia visiva, tassonomia, naming delle sezioni, collegamenti interni, microcopy, CTA e sequenza dei contenuti.
+
+Se questi elementi sono deboli, anche un design gradevole fatica a produrre richieste.
+
+Se in più il sito è lento, instabile o pesante, l’attrito aumenta ancora.
+
+H2
+Come intervenire
+
+COPY
+Un miglioramento strutturale non promette miracoli. Ma può ridurre dispersione, aumentare comprensione e far lavorare meglio anche il traffico che già hai.
+
+GETAWEB non si limita a sistemare la grafica o a rendere una pagina più ordinata. Studia il settore, guarda come si muovono i competitor, individua le falle nel presidio dell’offerta e costruisce pagine pensate per far sentire l’utente nel posto giusto, davanti alla risposta giusta, nel momento giusto.
+
+Il design utile non è quello che si fa notare. È quello che rende leggibile il sistema.
+
+H2
+Cosa guardare in pratica
+
+- Chiarezza della promessa sopra la piega
+- Offerta leggibile
+- CTA visibili e coerenti
+- Percorso semplice verso il contatto
+- Velocità, stabilità e mobile
+- Contenuti utili, non solo belli
+- FAQ e prove che riducono attrito
+
+CONCLUSIONE
+Se il tuo sito è bello ma non genera richieste, prima di cambiare grafica devi chiederti questo: l’utente capisce subito cosa offri, perché sei rilevante e come contattarti?
+
+CTA
+Parliamone
+
+
+==================================================
+PAGINA: /blog/pagine-seo-geo-faq-blog-vs-sito-vetrina.html
+FILE: blog/pagine-seo-geo-faq-blog-vs-sito-vetrina.html
+NUOVA VERSIONE ACCORPATA CON /blog/perche-le-pagine-geo-aiutano-davvero-a-trovare-clienti.html
+==================================================
+
+META TITLE
+Pagine SEO, GEO, FAQ e blog: perché funzionano meglio di un sito vetrina | GETAWEB
+
+META DESCRIPTION
+Un sistema di pagine dedicate parla ai bisogni reali dell’utente, nei momenti e nei contesti in cui quei bisogni emergono davvero.
+
+H1
+Pagine SEO, GEO, FAQ e blog: a cosa servono davvero e perché funzionano meglio di un sito vetrina
+
+LEAD
+Un sito vetrina parla soprattutto di te. Un sistema di pagine dedicate parla invece ai bisogni reali dell’utente, nei momenti e nei contesti in cui quei bisogni emergono davvero.
+
+H2
+Perché conta
+
+COPY
+Oggi non basta avere un sito. Bisogna costruire una struttura che intercetti domande diverse, in momenti diversi, con livelli diversi di consapevolezza.
+
+Il sito vetrina tende a concentrare tutto in poche pagine generiche. Spiega chi sei, mostra qualcosa dell’offerta, lascia un contatto. Ma spesso non presidia abbastanza bene le intenzioni di ricerca specifiche, i bisogni locali, le obiezioni e le domande reali che precedono la decisione.
+
+Il risultato è semplice: il sito esiste, ma copre poco. E quando copri poco, Google capisce poco e l’utente trova meno risposte.
+
+H2
+Perché le pagine GEO contano davvero
+
+COPY
+Quando una persona cerca un servizio vicino a sé, non sta facendo una ricerca generica. Sta manifestando una intenzione locale.
+
+È qui che le pagine GEO diventano potenti. Aiutano a collegare la tua offerta a un territorio specifico, aumentano pertinenza geografica e rendono più facile per Google e per l’utente capire che sei una risposta plausibile per quella zona.
+
+Ma una pagina GEO non funziona davvero se prendi una pagina generica e cambi solo il nome della città.
+
+Per essere utile deve avere una logica vera: servizio collegato al territorio, linguaggio coerente, collegamenti interni sensati, FAQ locali, CTA chiara e una promessa che abbia senso per quella zona.
+
+H2
+Cosa succede quando manca
+
+COPY
+Se Google premia contenuti utili e people-first, FAQ, pagine GEO, articoli di supporto e pagine servizio hanno senso solo quando rispondono a un bisogno reale.
+
+Il blog non sostituisce pagine servizio e pagine GEO. Le rafforza.
+
+Serve a coprire temi informativi, dubbi laterali, confronti, errori comuni, problemi emergenti e contenuti educativi che aiutano l’utente a capirti prima di contattarti.
+
+H2
+Come intervenire
+
+COPY
+Le pagine non devono stare isolate. Devono collegarsi in modo logico.
+
+Una pagina blog che parla di un problema deve poter portare a un servizio.
+
+Una pagina GEO deve poter richiamare il servizio corretto.
+
+Una FAQ deve poter accompagnare verso il contatto o verso una pagina più approfondita.
+
+Quando il sistema si parla bene da solo, aumenta la leggibilità per Google e per l’utente.
+
+H2
+Cosa guardare in pratica
+
+- Pagine costruite su bisogni specifici
+- FAQ che tolgono attrito reale
+- GEO con legame vero tra servizio e territorio
+- Blog di supporto collegato ai servizi
+- Interlinking logico
+- CTA coerenti
+- Percorso leggibile verso il contatto
+
+CONCLUSIONE
+Per questo pagine SEO, GEO, FAQ e blog funzionano meglio di un sito vetrina: non mostrano solo chi sei. Mostrano che hai capito cosa cerca davvero il cliente, in quale contesto lo cerca e perché dovrebbe fermarsi proprio da te.
+
+CTA
+Parliamone
+
+
+==================================================
+PAGINA: /blog/quanto-conviene-investire-in-un-sito-performante.html
+FILE: blog/quanto-conviene-investire-in-un-sito-performante.html
+==================================================
+
+META TITLE
+Quanto conviene investire in un sito performante | GETAWEB
+
+META DESCRIPTION
+Se il sito è un asset, non basta che sia bello: deve funzionare. Il punto non è solo come appare, ma quanto bene regge performance, UX, struttura e conversione nel tempo.
+
+H1
+Quanto conviene investire in un sito performante invece di rifare solo la grafica?
+
+LEAD
+Se il sito è un asset, non basta che sia bello: deve funzionare. Il punto non è solo come appare, ma quanto bene regge performance, UX, struttura e conversione nel tempo.
+
+H2
+Perché conta
+
+COPY
+Se il sito viene visto come un costo, la conversazione si ferma alla grafica. Se invece viene visto come un asset, allora la vera domanda è un’altra: quanto bene funziona davvero per il business?
+
+Molte aziende decidono di rifare il look del proprio sito sperando che una grafica più moderna migliori anche i risultati.
+
+In parte è vero: l’impatto visivo conta, la percezione iniziale conta, la credibilità conta. Ma quando il sito viene trattato come una vera infrastruttura digitale, la grafica smette di essere il centro del valore.
+
+H2
+Cosa succede quando manca
+
+COPY
+Un sito vetrina deve apparire bene. Un sito-asset deve funzionare bene.
+
+Deve essere veloce, leggibile, stabile, mobile-friendly, facilmente esplorabile da Google e capace di accompagnare l’utente verso l’azione giusta.
+
+Molti restyling estetici peggiorano le performance: immagini troppo pesanti, animazioni inutili, video in background, font non ottimizzati, script terzi invasivi o sezioni costruite più per stupire che per funzionare.
+
+Il risultato è paradossale: il sito appare più moderno, ma lavora peggio.
+
+H2
+Come intervenire
+
+COPY
+La grafica, da sola, ha un valore limitato. È utile solo quando poggia su un funzionamento altamente performante.
+
+GETAWEB non ragiona sul sito come su una semplice presenza online da rinfrescare. Lo tratta come un’infrastruttura digitale che deve reggere performance, UX, SEO tecnica, struttura, fiducia e conversione.
+
+Per questo un sito GETAWEB non nasce per essere solo gradevole. Nasce per lavorare.
+
+H2
+Cosa guardare in pratica
+
+- Velocità
+- Stabilità
+- UX
+- Struttura
+- SEO tecnica
+- Chiarezza dell’offerta
+- Capacità di sostenere il business nel tempo
+
+CONCLUSIONE
+Se il sito è un asset, allora deve essere un’infrastruttura. Prima di essere bello, deve essere affidabile, rapido e capace di sostenere il lavoro per cui è stato costruito.
+
+CTA
+Parliamone
+
+
+
+
+==================================================
+AGGIORNAMENTI DA INTEGRARE SENZA TAGLIARE I COPY ESISTENTI
+==================================================
+
+NOTA OPERATIVA
+Questo blocco NON sostituisce i copy precedenti in modo sintetico.
+Va letto come integrazione ai copy già presenti sopra.
+Quindi:
+- i copy già scritti restano
+- qui sotto aggiungiamo tutte le nuove sezioni, i nuovi blocchi e gli aggiornamenti decisi dopo
+
+
+==================================================
+HOME PAGE — SEZIONI AGGIUNTIVE DA INSERIRE
+==================================================
+
+Queste sezioni si aggiungono ai copy già presenti della home.
+Non stanno cancellando i paragrafi precedenti.
+Si aggiungono come nuovi blocchi della pagina.
+
+--------------------------------------------------
+NUOVA SEZIONE: GUARDA I NOSTRI SITI
+--------------------------------------------------
+
+H2
+Guarda i nostri siti
+
+Sottotitolo
+Cinque esempi reali per vedere come lavoriamo.
+
+Intro
+Prima di parlare di metodo, performance e struttura, puoi guardare alcuni siti reali costruiti da noi.
+Sono online, verificabili e mostrano come lavoriamo su settori diversi.
+
+Card 1
+Titolo: Stai Manzo
+Settore: Ristorante
+Testo: Un sito costruito per unire velocità, chiarezza e contatto diretto.
+Bottone: Apri il sito
+
+Card 2
+Titolo: La Bottega Busca
+Settore: Negozio
+Testo: Un sito pensato per presentare meglio l’offerta, rendere più leggibili prodotti e servizi e facilitare il contatto.
+Bottone: Apri il sito
+
+Card 3
+Titolo: Straneidee Busca
+Settore: Retail
+Testo: Un sito leggero, chiaro e costruito per orientare meglio l’utente già dai primi secondi.
+Bottone: Apri il sito
+
+Card 4
+Titolo: Ascoltale
+Settore: Podcast / progetto editoriale
+Testo: Un sito ordinato e rapido, pensato per rendere il contenuto più accessibile e più facile da esplorare.
+Bottone: Apri il sito
+
+Card 5
+Titolo: MySposi
+Settore: Wedding / configuratore
+Testo: Una struttura costruita per accompagnare l’utente passo dopo passo fino alla richiesta.
+Bottone: Apri il sito
+
+
+--------------------------------------------------
+NUOVA SEZIONE: PRESTAZIONI REALI
+--------------------------------------------------
+
+H2
+Prestazioni reali
+
+Sottotitolo
+Non parole. Test veri su siti veri.
+
+Intro
+Molti parlano di siti veloci. Noi preferiamo mostrare test reali su progetti veri.
+
+Card 1
+Immagine: staimanzo-pagespeed.avif
+Titolo: Stai Manzo
+Testo: Sito ristorante costruito per unire velocità, chiarezza e contatto diretto.
+
+Card 2
+Immagine: straneideebusca-pagespeed.avif
+Titolo: Straneidee Busca
+Testo: Sito progettato per presentare bene l’offerta e restare leggero anche da mobile.
+
+Card 3
+Immagine: labottega-busca-pagespeed.avif
+Titolo: La Bottega Busca
+Testo: Prestazioni alte per sostenere esperienza utente, leggibilità e rapidità di accesso.
+
+Chiusura
+La velocità da sola non basta. Ma un sito lento parte già male.
+
+
+--------------------------------------------------
+NUOVA SEZIONE: PER CHI È GETAWEB
+--------------------------------------------------
+
+H2
+Per chi è GETAWEB
+
+Paragrafo 1
+GETAWEB lavora soprattutto con attività locali, professionisti, negozi, ristoranti, strutture ricettive e realtà che hanno bisogno di spiegare meglio ciò che fanno e facilitare il contatto diretto.
+
+Paragrafo 2
+Non serve appartenere a una categoria “digitale”. Anzi, spesso il vantaggio più forte nasce proprio nei settori dove la concorrenza online è ancora debole, confusa o poco curata.
+
+Paragrafo 3
+Se il tuo lavoro è concreto, fisico, territoriale e si basa ancora molto su passaparola, richieste dirette e fiducia, il sito può smettere di essere una vetrina e iniziare a diventare un asset vero.
+
+
+--------------------------------------------------
+NUOVA SEZIONE: PROBLEMI CHE RISOLVIAMO
+--------------------------------------------------
+
+H2
+Problemi che risolviamo
+
+Intro
+Non partiamo dal sito come oggetto. Partiamo dai problemi che oggi ti fanno perdere forza.
+
+Card 1
+Titolo: Ti trovano poco
+Testo: Il sito non intercetta abbastanza domanda oppure non è costruito per farsi capire subito.
+
+Card 2
+Titolo: Ti capiscono male
+Testo: L’offerta esiste, ma viene spiegata in modo debole, generico o confuso.
+
+Card 3
+Titolo: Ti contattano poco
+Testo: Anche quando l’interesse c’è, si perde prima del contatto per attrito, dubbi o percorsi poco chiari.
+
+Card 4
+Titolo: Gestisci male ciò che arriva
+Testo: Messaggi sparsi, richieste poco chiare, materiali mancanti e nessun ordine dopo il primo contatto.
+
+
+--------------------------------------------------
+NUOVA SEZIONE: PERCHÉ FIDARSI
+--------------------------------------------------
+
+H2
+Perché fidarsi
+
+Punto 1
+Siti reali, online e verificabili.
+
+Punto 2
+Test reali di performance su progetti veri.
+
+Punto 3
+Approccio pratico: meno parole vuote, più struttura, più contatto, più misurazione.
+
+Punto 4
+Base a Busca, lavoro con attività locali vere.
+
+Punto 5
+Ogni pagina nasce per essere chiara, veloce, leggibile e utile.
+
+
+--------------------------------------------------
+NUOVA SEZIONE: FACCIAMO 2 IPOTESI
+--------------------------------------------------
+
+H2
+Facciamo 2 ipotesi
+
+Intro
+Non servono numeri fantasiosi per capire se un sito ha senso.
+Basta fare due ipotesi semplici.
+
+Blocco 1
+Titolo: Ipotesi 1 — Ristorante
+
+Testo 1
+Prendiamo un investimento di 2.200 € per un sito performante.
+
+Testo 2
+Ipotizziamo un tavolo medio da 2 persone, con uno scontrino da 80 € e un margine operativo prudenziale di 24 € per tavolo.
+
+Testo 3
+Per rientrare dell’investimento servono:
+2.200 € / 24 € = 92 tavoli in 24 mesi.
+
+Testo 4
+Tradotto:
+92 tavoli / 104 settimane = 0,88 tavoli a settimana.
+
+Testo 5
+Quindi basta meno di 1 tavolo da 2 persone a settimana perché il sito si ripaghi in due anni.
+
+Testo 6
+Dal tavolo successivo in poi, il sito non sta più coprendo il costo: sta iniziando a produrre margine.
+
+Blocco 2
+Titolo: Ipotesi 2 — Dentista
+
+Testo 1
+Prendiamo sempre un investimento di 2.200 €.
+
+Testo 2
+Ipotizziamo una prima visita o igiene da 60 €, con un margine prudenziale di 20 €.
+
+Testo 3
+Per rientrare dell’investimento servono:
+2.200 € / 20 € = 110 pazienti in 24 mesi.
+
+Testo 4
+Tradotto:
+110 pazienti / 104 settimane = 1,06 pazienti a settimana.
+
+Testo 5
+Quindi basta circa 1 nuovo paziente a settimana perché il sito si ripaghi in due anni.
+
+Testo 6
+E questo senza ancora considerare il valore reale del paziente nel tempo, che spesso è molto più alto della sola prima visita.
+
+Chiusura sezione
+Il punto non è promettere numeri magici.
+Il punto è mostrare una cosa semplice:
+se un sito è costruito bene, non deve portare decine di clienti al giorno per avere senso.
+
+Riga finale
+In molti casi basta 1 tavolo a settimana o 1 paziente a settimana per far rientrare l’investimento.
+
+
+--------------------------------------------------
+NUOVA SEZIONE: COSA FACCIAMO DAVVERO AI NOSTRI SITI
+--------------------------------------------------
+
+H2
+Cosa facciamo davvero ai nostri siti
+
+Paragrafo introduttivo
+Un sito GETAWEB non nasce per essere solo bello.
+Nasce per essere veloce, chiaro, indicizzabile, misurabile, credibile e convertente.
+
+Blocco 1
+Titolo: Meta e anteprime
+Testo: Title, meta description, canonical, meta robots, Open Graph, Twitter Card, favicon e immagine social corretta.
+Perché il sito deve presentarsi bene sia su Google sia quando viene condiviso.
+
+Blocco 2
+Titolo: Struttura HTML pulita
+Testo: Lang, charset, viewport, un solo H1, gerarchia H2/H3 corretta, header, nav, main, footer e breadcrumb visivo.
+Perché un sito chiaro per il browser e per Google è anche più chiaro per le persone.
+
+Blocco 3
+Titolo: Dati strutturati e schema
+Testo: Organization o LocalBusiness, WebSite, WebPage, BreadcrumbList, FAQPage, Service o Product, Article se serve, con NAP coerente.
+Per aiutare Google a capire meglio chi sei, cosa fai e dove operi.
+
+Blocco 4
+Titolo: Indicizzazione e controllo delle pagine
+Testo: Sitemap.xml, robots.txt, redirect 301, gestione 404, noindex dove serve, URL pulite, internal linking studiato.
+Per evitare sprechi, pagine doppie e dispersione di forza.
+
+Blocco 5
+Titolo: Prestazioni vere
+Testo: Immagini AVIF, immagini responsive, width e height corrette, lazy loading sotto la piega, critical CSS, CSS e JS alleggeriti, defer e async sugli script, preload solo dove serve, font ottimizzati, cache forte, riduzione del JavaScript inutile.
+L’obiettivo è semplice: un sito che si apre in fretta e non fa perdere utenti.
+
+Blocco 6
+Titolo: Tracking e misurazione
+Testo: GA4, GTM, Search Console, eventi su telefono, WhatsApp, form e passaggi chiave.
+Per capire cosa funziona, dove si fermano gli utenti e cosa conviene migliorare.
+
+Blocco 7
+Titolo: Privacy e parte legale
+Testo: Cookie banner, blocco script fino al consenso, privacy, cookie e informazioni legali collegate in modo corretto, file legale con ancore.
+
+Blocco 8
+Titolo: Accessibilità
+Testo: Contrasti corretti, alt immagini, label nei form, focus visibile, heading in ordine semantico, pulsanti e link leggibili.
+Perché il sito deve essere usabile davvero, non solo visivamente ordinato.
+
+Blocco 9
+Titolo: Conversione
+Testo: CTA above the fold, telefono cliccabile, WhatsApp cliccabile, form semplice, trust signals, recensioni, foto vere, microcopy chiaro, rassicurazioni e meno distrazioni inutili.
+Perché il sito deve accompagnare verso il contatto, non complicarlo.
+
+Blocco 10
+Titolo: Controlli finali
+Testo: Lighthouse, PageSpeed, Rich Results Test, Search Console, test mobile reale, test link rotti, test eventi GA4 e GTM, controllo del codice sorgente.
+Perché i dettagli tecnici non si dichiarano soltanto: si verificano.
+
+Chiusura
+Non puntiamo a un sito semplicemente bello.
+Puntiamo a un sito veloce, chiaro, indicizzabile, misurabile, credibile e convertente.
+
+
+==================================================
+AGGIORNAMENTO LESSICO E POSIZIONAMENTO
+==================================================
+
+NOTA
+Dove possibile, nei copy nuovi:
+- ridurre l’astrazione della parola “Back Office”
+- sostituirla o affiancarla con formule più concrete
+
+Alternative utili
+- Gestione contatti
+- Sistema di gestione richieste
+- Ordine tra richieste e materiali
+- Sistema salva-tempo per i contatti
+- Gestione operativa delle richieste
+
+Formula consigliata
+Usare:
+“Back office / gestione contatti”
+oppure
+“Sistema di gestione contatti”
+così non perdi la parola tecnica ma la rendi più chiara.
+
+
+==================================================
+AGGIORNAMENTO FAQ DA INSERIRE
+==================================================
+
+FAQ aggiuntiva
+Domanda: Che differenza c’è tra landing page e sito web?
+
+Risposta:
+Scegli una landing page se hai un’offerta precisa e vuoi portare l’utente a un’azione chiara.
+Scegli un sito web se devi spiegare più servizi, più differenze, più territori o costruire più autorevolezza.
+
+FAQ aggiuntiva
+Domanda: Quanto conta la velocità?
+
+Risposta:
+Conta tantissimo.
+Un sito lento perde attenzione, fiducia e richieste.
+Più l’utente aspetta, più aumenta la probabilità che scelga qualcun altro.
+
+FAQ aggiuntiva
+Domanda: Posso avere un contatto rapido e anche una richiesta più strutturata?
+
+Risposta:
+Sì.
+Per questo affianchiamo a WhatsApp una richiesta più ordinata, così chi vuole scrivere subito può farlo, ma chi preferisce una richiesta più completa ha comunque un percorso chiaro.
+
+
+==================================================
+UNIFORMAZIONE HEADER E FOOTER
+==================================================
+
+NOTA
+Header e footer vanno uniformati in tutte le pagine.
+Non devono più esserci varianti diverse tra una pagina e l’altra.
+
+HEADER UNICO
+Logo: GETAWEB
+Voci:
+Home
+Servizi
+Territorio
+Blog
+Contatti
+
+CTA header
+Parla con noi
+
+FOOTER UNICO
+Colonna 1
+GETAWEB
+Dall’intenzione all’azione.
+Per farti trovare. Per farti capire. Per farti contattare.
+
+Colonna 2
+Navigazione
+Home
+Servizi
+Territorio
+Blog
+Contatti
+
+Colonna 3
+Servizi
+Landing page
+Siti web
+E-commerce
+Gestione contatti
+
+Colonna 4
+Contatti
+Telefono
+Email
+WhatsApp
+
+Colonna 5
+Legale
+Privacy
+Cookie
+Informazioni legali
+
+
+==================================================
+NOTA FINALE OPERATIVA
+==================================================
+
+Questo file tiene:
+- i copy precedenti
+- le pagine finali già consolidate
+- tutte le nuove sezioni decise dopo
+- le due ipotesi economiche
+- il blocco tecnico “cosa facciamo davvero”
+- l’uniformazione di header e footer
+
+Quindi questo è il file lungo da cui lavorare.
+Niente è stato sintetizzato o accorciato rispetto al file precedente:
+gli aggiornamenti sono stati aggiunti.
