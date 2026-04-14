@@ -1,0 +1,20 @@
+RewriteEngine On
+
+# Legacy city pages -> unico territorio con ancore
+Redirect 301 /alba.html /territorio#alba
+Redirect 301 /cuneo.html /territorio#cuneo
+Redirect 301 /saluzzo.html /territorio#saluzzo
+Redirect 301 /savigliano.html /territorio#savigliano
+Redirect 301 /torino.html /territorio#torino
+
+# Legacy pagine dismesse
+Redirect 301 /architettura-informativa-updated.html /servizi/back-office
+Redirect 301 /architettura-informativa.html /servizi/back-office
+Redirect 301 /pagine-geo.html /servizi
+Redirect 301 /perche-oggi-non-basta-avere-un-sito.html /blog/hai-un-sito-bello-ma-non-genera-richieste
+Redirect 301 /perche-le-pagine-geo-aiutano-davvero-a-trovare-clienti.html /blog/pagine-seo-geo-faq-blog-vs-sito-vetrina
+
+# SPA fallback
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.html [L]
