@@ -5,17 +5,27 @@ export function parseLegacyDocument(rawHtml: string, fallbackTitle: string) {
   const description =
     doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || ''
 
-  const footerGrid = doc.querySelector('footer .grid.xl\\:grid-cols-5')
-  if (footerGrid instanceof HTMLElement) {
-    footerGrid.className = footerGrid.className.replace('xl:grid-cols-5', 'xl:grid-cols-4')
+  const footerGrids = Array.from(doc.querySelectorAll('footer .grid')).filter(
+    (el): el is HTMLElement => el instanceof HTMLElement
+  )
+
+  for (const footerGrid of footerGrids) {
+    footerGrid.className = footerGrid.className
+      .replace('xl:grid-cols-5', 'xl:grid-cols-4')
+      .replace('lg:grid-cols-5', 'lg:grid-cols-4')
 
     const sections = Array.from(footerGrid.children).filter(
       (el): el is HTMLElement => el instanceof HTMLElement
     )
 
-    if (sections.length >= 5) {
-      const contactsCol = sections[3]
-      const legalCol = sections[4]
+    const contactsCol = sections.find((section) =>
+      section.textContent?.toLowerCase().includes('contatti')
+    )
+    const legalCol = sections.find((section) =>
+      section.textContent?.toLowerCase().includes('legale')
+    )
+
+    if (contactsCol && legalCol && contactsCol !== legalCol) {
       legalCol.classList.add('mt-8')
       contactsCol.appendChild(legalCol)
     }
