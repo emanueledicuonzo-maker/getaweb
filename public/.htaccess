@@ -1,0 +1,34 @@
+RewriteEngine On
+
+# Legacy city pages -> unico territorio con ancore
+Redirect 301 /alba.html /territorio#alba
+Redirect 301 /cuneo.html /territorio#cuneo
+Redirect 301 /saluzzo.html /territorio#saluzzo
+Redirect 301 /savigliano.html /territorio#savigliano
+Redirect 301 /torino.html /territorio#torino
+
+# Legacy pagine dismesse
+Redirect 301 /architettura-informativa-updated.html /servizi/back-office
+Redirect 301 /architettura-informativa.html /servizi/back-office
+Redirect 301 /pagine-geo.html /servizi
+Redirect 301 /perche-oggi-non-basta-avere-un-sito.html /blog/hai-un-sito-bello-ma-non-genera-richieste
+Redirect 301 /perche-le-pagine-geo-aiutano-davvero-a-trovare-clienti.html /blog/pagine-seo-geo-faq-blog-vs-sito-vetrina
+
+# Legacy URL annidati .html -> route canoniche
+Redirect 301 /servizi/landing-page.html /servizi/landing-page
+Redirect 301 /servizi/siti-web.html /servizi/siti-web
+Redirect 301 /servizi/e-commerce.html /servizi/e-commerce
+Redirect 301 /servizi/back-office.html /servizi/back-office
+Redirect 301 /servizi/copy-e-messaggio.html /servizi/copy-e-messaggio
+Redirect 301 /servizi/seo-strategica.html /servizi/seo-strategica
+Redirect 301 /servizi/tracciamento-e-misurazione.html /servizi/tracciamento-e-misurazione
+Redirect 301 /servizi/architettura-informativa.html /servizi/back-office
+Redirect 301 /blog/come-ottimizzare-google-business-profile.html /blog/come-ottimizzare-google-business-profile
+Redirect 301 /blog/hai-un-sito-bello-ma-non-genera-richieste.html /blog/hai-un-sito-bello-ma-non-genera-richieste
+Redirect 301 /blog/pagine-seo-geo-faq-blog-vs-sito-vetrina.html /blog/pagine-seo-geo-faq-blog-vs-sito-vetrina
+Redirect 301 /blog/quanto-conviene-investire-in-un-sito-performante.html /blog/quanto-conviene-investire-in-un-sito-performante
+
+# SPA fallback
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.html [L]
