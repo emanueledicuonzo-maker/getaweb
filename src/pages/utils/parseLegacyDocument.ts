@@ -5,6 +5,18 @@ export function parseLegacyDocument(rawHtml: string, fallbackTitle: string) {
   const description =
     doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || ''
 
+  doc
+    .querySelectorAll(
+      [
+        'link[href*="assets/css/site.css"]',
+        'script[src*="assets/js/site.js"]',
+        'script[src*="assets/js/standard-pages.js"]'
+      ].join(',')
+    )
+    .forEach((el) => el.remove())
+
+  doc.body.querySelectorAll('script').forEach((el) => el.remove())
+
   const footerGrids = Array.from(doc.querySelectorAll('footer .grid')).filter(
     (el): el is HTMLElement => el instanceof HTMLElement
   )
