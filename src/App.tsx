@@ -16,4 +16,9 @@ export default function App() {
   }, [location.pathname])
 
   return routes
+import { useRoutes } from 'react-router-dom'
+import { appRoutes } from './router'
+
+export default function App() {
+  return useRoutes(appRoutes)
 }

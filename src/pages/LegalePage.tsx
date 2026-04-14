@@ -4,6 +4,27 @@ import legaleHtml from '../content/legacy/legale.html?raw'
 
 export default function LegalePage() {
   const parsed = useMemo(() => parseLegacyDocument(legaleHtml, 'Legale | GETAWEB'), [])
+import legaleHtml from '../content/legacy/legale.html?raw'
+
+function parseLegale(html: string) {
+  const doc = new DOMParser().parseFromString(html, 'text/html')
+  const title = doc.querySelector('title')?.textContent?.trim() || 'Legale | GETAWEB'
+  const description =
+    doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || ''
+
+  const normalizedBody = doc.body.innerHTML
+    .replaceAll('assets/img/', '/images/')
+    .replaceAll('src="pagespeed-staimanzo-performance.webp"', 'src="/images/pagespeed-staimanzo-performance.webp"')
+    .replaceAll(
+      'src="pagespeed-labottega-busca-performance.webp"',
+      'src="/images/pagespeed-labottega-busca-performance.webp"'
+    )
+
+  return { title, description, body: normalizedBody }
+}
+
+export default function LegalePage() {
+  const parsed = useMemo(() => parseLegale(legaleHtml), [])
 
   useEffect(() => {
     document.title = parsed.title

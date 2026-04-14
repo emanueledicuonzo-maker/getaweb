@@ -8,6 +8,29 @@ type LegacyPageProps = {
 
 export function LegacySourcePage({ rawHtml, fallbackTitle }: LegacyPageProps) {
   const parsed = useMemo(() => parseLegacyDocument(rawHtml, fallbackTitle), [rawHtml, fallbackTitle])
+function normalizeBody(body: string) {
+  return body
+    .replaceAll('assets/img/', '/images/')
+    .replaceAll('src="pagespeed-staimanzo-performance.webp"', 'src="/images/pagespeed-staimanzo-performance.webp"')
+    .replaceAll(
+      'src="pagespeed-labottega-busca-performance.webp"',
+      'src="/images/pagespeed-labottega-busca-performance.webp"'
+    )
+}
+
+export function LegacySourcePage({ rawHtml, fallbackTitle }: LegacyPageProps) {
+  const parsed = useMemo(() => {
+    const doc = new DOMParser().parseFromString(rawHtml, 'text/html')
+    const title = doc.querySelector('title')?.textContent?.trim() || fallbackTitle
+    const description =
+      doc.querySelector('meta[name="description"]')?.getAttribute('content')?.trim() || ''
+
+    return {
+      title,
+      description,
+      body: normalizeBody(doc.body.innerHTML)
+    }
+  }, [rawHtml, fallbackTitle])
 
   useEffect(() => {
     document.title = parsed.title
