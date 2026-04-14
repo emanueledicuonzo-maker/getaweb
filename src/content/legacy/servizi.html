@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+
+<html class="light" lang="it">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Servizi | GETAWEB</title>
+<meta content="Presenza digitale, siti web, e-commerce e back office: quattro servizi GETAWEB per attività locali." name="description"/>
+<meta content="index, follow" name="robots"/>
+<meta content="GETAWEB" name="author"/>
+<meta content="it" http-equiv="content-language"/>
+<link href="https://www.getaweb.it/servizi.html" rel="canonical"/>
+<meta content="#ec5b13" name="theme-color"/>
+<link href="assets/img/logo.png" rel="icon"/>
+<link href="assets/img/logo.png" rel="apple-touch-icon"/>
+<meta content="website" property="og:type"/>
+<meta content="it_IT" property="og:locale"/>
+<meta content="Servizi | GETAWEB" property="og:title"/>
+<meta content="Presenza digitale, siti web, e-commerce e back office: quattro servizi GETAWEB per attività locali." property="og:description"/>
+<meta content="https://www.getaweb.it/servizi.html" property="og:url"/>
+<meta content="https://www.getaweb.it/assets/img/og-image.webp" property="og:image"/>
+<meta content="GETAWEB" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Servizi | GETAWEB" name="twitter:title"/>
+<meta content="Presenza digitale, siti web, e-commerce e back office: quattro servizi GETAWEB per attività locali." name="twitter:description"/>
+<meta content="https://www.getaweb.it/assets/img/og-image.webp" name="twitter:image"/>
+<link as="image" fetchpriority="high" href="assets/img/logo.png" rel="preload"/>
+<style>
+:root{
+  --primary:#ec5b13;
+  --bg:#f8fafc;
+  --text:#0f172a;
+  --muted:#475569;
+  --border:#e2e8f0;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+img{max-width:100%;height:auto;display:block}
+a{text-decoration:none;color:inherit}
+#global-header:empty{display:block;min-height:64px}
+#global-footer:empty{display:block;min-height:1px}
+main{display:block}
+.hero-shell{
+  max-width:1280px;
+  margin:0 auto;
+  padding:80px 16px 64px;
+}
+@media (min-width:640px){
+  .hero-shell{padding-left:24px;padding-right:24px}
+}
+@media (min-width:1024px){
+  .hero-shell{padding-left:32px;padding-right:32px;padding-top:96px;padding-bottom:96px}
+}
+.hero-grid{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:48px;
+  align-items:center;
+}
+@media (min-width:1024px){
+  .hero-grid{grid-template-columns:1fr 1fr;gap:64px}
+}
+.hero-kicker{
+  display:inline-flex;
+  align-items:center;
+  width:max-content;
+  padding:6px 12px;
+  border-radius:999px;
+  background:rgba(236,91,19,.12);
+  color:var(--primary);
+  font-size:12px;
+  font-weight:700;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+}
+.hero-title{
+  margin:0;
+  font-size:42px;
+  line-height:1.02;
+  font-weight:900;
+  letter-spacing:-.04em;
+}
+@media (min-width:640px){
+  .hero-title{font-size:56px}
+}
+@media (min-width:1024px){
+  .hero-title{font-size:86px}
+}
+.hero-lead{
+  margin:0;
+  font-size:22px;
+  line-height:1.35;
+  font-weight:700;
+}
+.hero-text{
+  margin:0;
+  font-size:18px;
+  line-height:1.7;
+  color:var(--muted);
+}
+.hero-small{
+  margin:0;
+  font-size:14px;
+  line-height:1.6;
+  color:#64748b;
+}
+.hero-stack{
+  display:flex;
+  flex-direction:column;
+  gap:16px;
+  max-width:760px;
+}
+.hero-actions{
+  display:flex;
+  flex-wrap:wrap;
+  gap:16px;
+}
+.btn-primary,
+.btn-secondary{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-height:56px;
+  padding:16px 32px;
+  border-radius:16px;
+  font-size:18px;
+  font-weight:800;
+}
+.btn-primary{
+  background:var(--primary);
+  color:#fff;
+}
+.btn-secondary{
+  border:2px solid var(--border);
+  color:var(--text);
+  background:#fff;
+}
+.hero-note{
+  margin:0;
+  font-size:14px;
+  color:#64748b;
+  font-style:italic;
+  font-weight:500;
+}
+.hero-proof{
+  display:flex;
+  flex-wrap:wrap;
+  gap:24px;
+  font-size:14px;
+  color:#64748b;
+}
+.hero-proof span{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+}
+.hero-card{
+  border:1px solid var(--border);
+  border-radius:24px;
+  background:rgba(255,255,255,.88);
+  box-shadow:0 20px 50px rgba(15,23,42,.08);
+  backdrop-filter:blur(6px);
+  padding:24px;
+}
+.metric-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:16px;
+}
+.metric-box,
+.metric-wide{
+  border:1px solid var(--border);
+  border-radius:18px;
+  background:#fff;
+  padding:16px;
+}
+.metric-wide{grid-column:1 / -1}
+.metric-label{
+  font-size:11px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:#64748b;
+  margin-bottom:12px;
+  display:block;
+}
+.bar{
+  height:8px;
+  border-radius:999px;
+  background:#e2e8f0;
+  margin-bottom:8px;
+}
+.bar.primary{background:rgba(236,91,19,.28)}
+.bar.w80{width:80%}
+.bar.w60{width:60%}
+.block{
+  height:40px;
+  border-radius:14px;
+  background:#e2e8f0;
+}
+.block.primary{
+  background:rgba(236,91,19,.15);
+  border:1px solid rgba(236,91,19,.25);
+}
+.step-grid{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:12px;
+}
+.step{
+  border:1px solid var(--border);
+  border-radius:14px;
+  background:#fff;
+  padding:16px 10px;
+  text-align:center;
+  font-size:12px;
+  font-weight:700;
+  color:#334155;
+}
+.floating-note{
+  display:none;
+}
+@media (min-width:640px){
+  .floating-note{
+    display:block;
+    position:absolute;
+    left:-16px;
+    bottom:-16px;
+    border:1px solid var(--border);
+    border-radius:18px;
+    background:#fff;
+    padding:12px 16px;
+    box-shadow:0 12px 30px rgba(15,23,42,.08);
+  }
+}
+.floating-note p{margin:0}
+.floating-note .small{
+  font-size:11px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:#64748b;
+}
+.floating-note .strong{
+  margin-top:4px;
+  font-size:14px;
+  font-weight:700;
+  color:var(--text);
+}
+</style>
+<link as="style" href="assets/css/site.css" rel="preload"/><style>
+body{font-family:Arial,Helvetica,sans-serif;}
+.icon-inline{width:1.1em;height:1.1em;display:inline-block;vertical-align:-0.18em;flex:0 0 auto}
+.icon-inline.icon-sm{width:1rem;height:1rem}
+.icon-inline.icon-lg{width:1.5rem;height:1.5rem}
+</style>
+<link href="assets/css/site.css" media="print" onload="this.onload=null;this.media='all'" rel="stylesheet"/>
+<noscript><link href="assets/css/site.css" rel="stylesheet"/></noscript>
+<script defer="" src="assets/js/site.js"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "GETAWEB",
+  "url": "https://www.getaweb.it/",
+  "logo": "https://www.getaweb.it/assets/img/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+39 3516112099",
+    "contactType": "customer support",
+    "areaServed": "IT",
+    "availableLanguage": "Italian"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via San Giovanni Bosco 12",
+    "addressLocality": "Busca",
+    "postalCode": "12022",
+    "addressCountry": "IT"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "GETAWEB",
+  "url": "https://www.getaweb.it/"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Servizi | GETAWEB",
+  "url": "https://www.getaweb.it/servizi.html",
+  "inLanguage": "it",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "GETAWEB",
+    "url": "https://www.getaweb.it/"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "La presenza digitale è solo una landing page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sì, ma fatta con una logica precisa: farti trovare, farti capire in pochi secondi e farti contattare."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quando ha senso partire dalla presenza digitale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quando oggi non hai una presenza online seria o hai bisogno di una porta d’ingresso rapida e pulita."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quando è meglio un sito web invece di una sola pagina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quando devi spiegare più servizi, più contesti, più aree o costruire una presenza più forte nel tempo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quante pagine deve avere un sito web?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Solo quelle utili. Non si tratta di riempire spazio, ma di costruire una struttura leggibile e credibile."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Serve per forza un e-commerce complesso?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. In molti casi è meglio partire da una struttura semplice, ordinata e concreta."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "L’e-commerce serve solo a chi ha tanti prodotti?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Serve anche a chi ha pochi prodotti ma vuole presentarli bene e vendere online in modo più chiaro."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Il back office sostituisce sito o presenza digitale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Li completa. Il suo lavoro è mettere ordine in quello che succede dopo il contatto."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quando ha senso lavorare sul back office?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quando i contatti arrivano ma si disperdono tra telefono, WhatsApp, email, materiali e passaggi operativi."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.getaweb.it/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Servizi",
+      "item": "https://www.getaweb.it/servizi.html"
+    }
+  ]
+}
+</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-E0DESSTBD9"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-E0DESSTBD9');
+</script>
+</head>
+<body class="bg-background-light dark:bg-background-dark text-slate-900 dark:text-slate-100 antialiased pb-24">
+<header class="sticky top-0 z-50 w-full border-b border-slate-200/80 dark:border-slate-800/80 bg-background-light/95 dark:bg-background-dark/95 backdrop-blur-sm" data-section="header" id="site-header">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="flex items-center justify-between h-16">
+<a aria-label="Vai alla homepage GETAWEB" class="flex items-center gap-3 shrink-0" data-track="logo_click" href="index.html">
+<span class="flex h-10 w-10 items-center justify-center rounded-xl bg-primary text-white text-3xl font-black shadow-sm">
+          G
+        </span>
+<span class="text-xl font-black tracking-tighter text-slate-900 dark:text-white uppercase">
+          GETAWEB
+        </span>
+</a>
+<nav aria-label="Navigazione principale" class="hidden lg:flex items-center gap-8">
+<a class="text-sm font-medium text-slate-700 dark:text-slate-200 hover:text-primary transition-colors" data-nav="home" data-track="nav_click" href="index.html">
+           Home
+        </a>
+<a aria-current="page" class="text-primary text-sm font-medium" data-nav="servizi" data-track="nav_click" href="servizi.html">
+           Servizi
+        </a>
+<a class="text-sm font-medium text-slate-700 dark:text-slate-200 hover:text-primary transition-colors" data-nav="territorio" data-track="nav_click" href="territorio.html">
+           Territorio
+        </a>
+<a class="text-sm font-medium text-slate-700 dark:text-slate-200 hover:text-primary transition-colors" data-nav="blog" data-track="nav_click" href="blog.html">
+           Blog
+        </a>
+<a class="text-sm font-medium text-slate-700 dark:text-slate-200 hover:text-primary transition-colors" data-nav="contatti" data-track="nav_click" href="contatti.html">
+           Contatti
+        </a>
+</nav>
+<div class="hidden lg:flex items-center gap-3">
+<a class="inline-flex items-center justify-center bg-primary text-white px-5 py-2.5 rounded-xl text-sm font-bold hover:opacity-90 transition-all" data-cta="parla-con-noi" data-track="header_cta_click" href="contatti.html">
+          Parla con noi
+        </a>
+</div>
+<button aria-controls="mobile-menu" aria-expanded="false" aria-label="Apri menu" class="lg:hidden inline-flex items-center justify-center h-10 w-10 rounded-xl border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors" data-track="mobile_menu_toggle" id="menu-btn" type="button">
+<svg aria-hidden="true" class="icon-inline" fill="none" viewbox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-linecap="round" stroke-width="2.2"></path></svg>
+</button>
+</div>
+</div>
+</header>
+<main>
+  <section class="relative overflow-hidden py-20 lg:py-28">
+    <div class="absolute inset-0 pointer-events-none">
+      <div class="absolute inset-x-0 top-0 h-40 bg-gradient-to-b from-primary/5 to-transparent"></div>
+      <div class="absolute right-0 top-10 h-64 w-64 rounded-full bg-primary/10 blur-3xl opacity-60"></div>
+    </div>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+      <div class="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+        <div class="flex flex-col gap-6">
+          <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold tracking-widest uppercase bg-primary/10 text-primary w-fit">
+            Quattro strumenti. Una logica unica.
+          </span>
+
+          <h1 class="text-4xl sm:text-5xl lg:text-7xl font-black leading-tight tracking-tight text-slate-900 dark:text-white">
+            Il pezzo giusto, al momento giusto.
+          </h1>
+
+          <div class="flex flex-col gap-4 max-w-2xl">
+            <p class="text-xl font-semibold text-slate-800 dark:text-slate-200">
+              Puoi partire da una sola presenza digitale oppure da una struttura più completa.
+            </p>
+
+            <p class="text-lg text-slate-600 dark:text-slate-400">
+              L’obiettivo non è complicare. È costruire una presenza online più chiara, più credibile e più utile.
+            </p>
+
+            <p class="text-lg text-slate-600 dark:text-slate-400">
+              Ogni modulo può vivere da solo. Ma più pezzi colleghi, più la tua infrastruttura digitale diventa forte.
+            </p>
+          </div>
+
+          <div class="flex flex-col sm:flex-row flex-wrap gap-4 mt-2">
+            <a class="inline-flex items-center justify-center bg-primary text-white px-8 py-4 rounded-xl font-bold text-lg hover:opacity-90 transition-all" href="contatti.html">
+              Richiedi una consulenza
+            </a>
+
+            <a class="inline-flex items-center justify-center border-2 border-slate-200 dark:border-slate-700 px-8 py-4 rounded-xl font-bold text-lg hover:bg-slate-50 dark:hover:bg-slate-800 transition-all" href="#griglia-servizi">
+              Vedi i 4 servizi
+            </a>
+          </div>
+        </div>
+
+        <div class="rounded-3xl border border-slate-200 dark:border-slate-700 bg-white/80 dark:bg-slate-900/60 shadow-xl shadow-slate-200/40 dark:shadow-black/10 backdrop-blur-sm p-8">
+          <div class="space-y-4">
+            <div class="rounded-2xl border border-primary/20 bg-primary/5 p-5">
+              <p class="text-sm uppercase tracking-widest text-primary font-bold mb-2">Struttura</p>
+              <p class="text-lg font-semibold text-slate-900 dark:text-white">
+                Presenza digitale, ufficio digitale, negozio digitale e back office digitale.
+              </p>
+            </div>
+
+            <div class="grid grid-cols-2 gap-4">
+              <div class="rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/70 p-5">
+                <p class="text-sm uppercase tracking-widest text-slate-500 dark:text-slate-400 mb-2">Ingresso</p>
+                <p class="text-sm text-slate-700 dark:text-slate-300">Ti trovano e ti contattano.</p>
+              </div>
+
+              <div class="rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/70 p-5">
+                <p class="text-sm uppercase tracking-widest text-slate-500 dark:text-slate-400 mb-2">Spiegazione</p>
+                <p class="text-sm text-slate-700 dark:text-slate-300">Capiscono chi sei e cosa fai.</p>
+              </div>
+
+              <div class="rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/70 p-5">
+                <p class="text-sm uppercase tracking-widest text-slate-500 dark:text-slate-400 mb-2">Vendita</p>
+                <p class="text-sm text-slate-700 dark:text-slate-300">Comprano online in modo semplice.</p>
+              </div>
+
+              <div class="rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/70 p-5">
+                <p class="text-sm uppercase tracking-widest text-slate-500 dark:text-slate-400 mb-2">Ordine</p>
+                <p class="text-sm text-slate-700 dark:text-slate-300">Gestisci meglio quello che succede dopo.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="py-24 bg-slate-100 dark:bg-slate-900/50" id="griglia-servizi">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="mb-12 max-w-3xl">
+        <span class="text-primary font-bold uppercase tracking-widest text-xs mb-4 inline-block">Cosa c’è dentro</span>
+        <h2 class="text-3xl lg:text-4xl font-black mb-4 text-slate-900 dark:text-white">I 4 servizi principali</h2>
+        <p class="text-slate-600 dark:text-slate-400 text-lg">
+          Ogni card porta a una pagina dedicata. Nessun servizio lasciato generico.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <a class="service-card bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 p-8 transition-all hover:border-primary/50 hover:shadow-md" href="servizi/landing-page.html">
+          <div class="flex flex-col gap-4">
+            <h3 class="text-2xl font-black text-slate-900 dark:text-white">Presenza digitale</h3>
+            <p class="text-slate-600 dark:text-slate-400 text-base leading-relaxed">
+              La porta d’ingresso minima: una pagina chiara, veloce e diretta per farti trovare e farti contattare.
+            </p>
+            <span class="text-primary font-bold">Vai alla pagina</span>
+          </div>
+        </a>
+
+        <a class="service-card bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 p-8 transition-all hover:border-primary/50 hover:shadow-md" href="servizi/siti-web.html">
+          <div class="flex flex-col gap-4">
+            <h3 class="text-2xl font-black text-slate-900 dark:text-white">Siti web</h3>
+            <p class="text-slate-600 dark:text-slate-400 text-base leading-relaxed">
+              Strutture più complete per spiegare bene chi sei, cosa fai e perché scegliere te.
+            </p>
+            <span class="text-primary font-bold">Vai alla pagina</span>
+          </div>
+        </a>
+
+        <a class="service-card bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 p-8 transition-all hover:border-primary/50 hover:shadow-md" href="servizi/e-commerce.html">
+          <div class="flex flex-col gap-4">
+            <h3 class="text-2xl font-black text-slate-900 dark:text-white">E-commerce</h3>
+            <p class="text-slate-600 dark:text-slate-400 text-base leading-relaxed">
+              Soluzioni per vendere online in modo semplice, ordinato e concreto.
+            </p>
+            <span class="text-primary font-bold">Vai alla pagina</span>
+          </div>
+        </a>
+
+        <a class="service-card bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 p-8 transition-all hover:border-primary/50 hover:shadow-md" href="servizi/back-office.html">
+          <div class="flex flex-col gap-4">
+            <h3 class="text-2xl font-black text-slate-900 dark:text-white">Back office</h3>
+            <p class="text-slate-600 dark:text-slate-400 text-base leading-relaxed">
+              Supporto operativo per mettere ordine tra richieste, messaggi, materiali e attività.
+            </p>
+            <span class="text-primary font-bold">Vai alla pagina</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-24">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid lg:grid-cols-2 gap-12 items-start">
+        <div>
+          <span class="text-primary font-bold uppercase tracking-widest text-xs mb-4 inline-block">Come scegliere</span>
+          <h2 class="text-3xl lg:text-4xl font-black mb-4 text-slate-900 dark:text-white">Da dove partire</h2>
+          <p class="text-slate-600 dark:text-slate-400 text-lg">
+            Il punto non è comprare tutto. Il punto è iniziare dal modulo che oggi risolve il problema più evidente.
+          </p>
+        </div>
+
+        <ul class="grid gap-4">
+          <li class="rounded-2xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 px-5 py-4 text-slate-700 dark:text-slate-300">
+            Parti dalla <strong>presenza digitale</strong> se oggi ti manca una porta d’ingresso chiara.
+          </li>
+          <li class="rounded-2xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 px-5 py-4 text-slate-700 dark:text-slate-300">
+            Parti dai <strong>siti web</strong> se devi spiegare meglio chi sei, cosa fai e dove operi.
+          </li>
+          <li class="rounded-2xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 px-5 py-4 text-slate-700 dark:text-slate-300">
+            Parti dall’<strong>e-commerce</strong> se vuoi far comprare online in modo semplice.
+          </li>
+          <li class="rounded-2xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 px-5 py-4 text-slate-700 dark:text-slate-300">
+            Parti dal <strong>back office</strong> se il problema vero è il caos dopo il contatto.
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-24 bg-white dark:bg-slate-900">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-12 max-w-3xl mx-auto">
+        <span class="text-primary font-bold uppercase tracking-widest text-xs mb-4 inline-block">FAQ</span>
+        <h2 class="text-3xl lg:text-4xl font-black mb-4 text-slate-900 dark:text-white">Domande frequenti</h2>
+        <p class="text-lg text-slate-600 dark:text-slate-400">
+          Due domande per ogni servizio. Niente FAQ povere.
+        </p>
+      </div>
+
+      <div class="space-y-4">
+        <details class="group rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 overflow-hidden">
+          <summary class="list-none cursor-pointer px-6 py-5 flex items-center justify-between gap-4">
+            <h3 class="font-bold text-left text-slate-900 dark:text-white">La presenza digitale è solo una landing page?</h3>
+            <span class="text-primary text-xl font-bold">+</span>
+          </summary>
+          <div class="px-6 pb-5 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
+            Sì, ma fatta con una logica precisa: farti trovare, farti capire in pochi secondi e farti contattare.
+          </div>
+        </details>
+
+        <details class="group rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 overflow-hidden">
+          <summary class="list-none cursor-pointer px-6 py-5 flex items-center justify-between gap-4">
+            <h3 class="font-bold text-left text-slate-900 dark:text-white">Quando ha senso partire dalla presenza digitale?</h3>
+            <span class="text-primary text-xl font-bold">+</span>
+          </summary>
+          <div class="px-6 pb-5 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
+            Quando oggi non hai una presenza online seria o hai bisogno di una porta d’ingresso rapida e pulita.
+          </div>
+        </details>
+
+        <details class="group rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 overflow-hidden">
+          <summary class="list-none cursor-pointer px-6 py-5 flex items-center justify-between gap-4">
+            <h3 class="font-bold text-left text-slate-900 dark:text-white">Quando è meglio un sito web invece di una sola pagina?</h3>
+            <span class="text-primary text-xl font-bold">+</span>
+          </summary>
+          <div class="px-6 pb-5 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
+            Quando devi spiegare più servizi, più contesti, più aree o costruire una presenza più forte nel tempo.
+          </div>
+        </details>
+
+        <details class="group rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 overflow-hidden">
+          <summary class="list-none cursor-pointer px-6 py-5 flex items-center justify-between gap-4">
+            <h3 class="font-bold text-left text-slate-900 dark:text-white">Quante pagine deve avere un sito web?</h3>
+            <span class="text-primary text-xl font-bold">+</span>
+          </summary>
+          <div class="px-6 pb-5 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
+            Solo quelle utili. Non si tratta di riempire spazio, ma di costruire una struttura leggibile e credibile.
+          </div>
+        </details>
+
+        <details class="group rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 overflow-hidden">
+          <summary class="list-none cursor-pointer px-6 py-5 flex items-center justify-between gap-4">
+            <h3 class="font-bold text-left text-slate-900 dark:text-white">Serve per forza un e-commerce complesso?</h3>
+            <span class="text-primary text-xl font-bold">+</span>
+          </summary>
+          <div class="px-6 pb-5 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
+            No. In molti casi è meglio partire da una struttura semplice, ordinata e concreta.
+          </div>
+        </details>
+
+        <details class="group rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 overflow-hidden">
+          <summary class="list-none cursor-pointer px-6 py-5 flex items-center justify-between gap-4">
+            <h3 class="font-bold text-left text-slate-900 dark:text-white">L’e-commerce serve solo a chi ha tanti prodotti?</h3>
+            <span class="text-primary text-xl font-bold">+</span>
+          </summary>
+          <div class="px-6 pb-5 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
+            No. Serve anche a chi ha pochi prodotti ma vuole presentarli bene e vendere online in modo più chiaro.
+          </div>
+        </details>
+
+        <details class="group rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 overflow-hidden">
+          <summary class="list-none cursor-pointer px-6 py-5 flex items-center justify-between gap-4">
+            <h3 class="font-bold text-left text-slate-900 dark:text-white">Il back office sostituisce sito o presenza digitale?</h3>
+            <span class="text-primary text-xl font-bold">+</span>
+          </summary>
+          <div class="px-6 pb-5 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
+            No. Li completa. Il suo lavoro è mettere ordine in quello che succede dopo il contatto.
+          </div>
+        </details>
+
+        <details class="group rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 overflow-hidden">
+          <summary class="list-none cursor-pointer px-6 py-5 flex items-center justify-between gap-4">
+            <h3 class="font-bold text-left text-slate-900 dark:text-white">Quando ha senso lavorare sul back office?</h3>
+            <span class="text-primary text-xl font-bold">+</span>
+          </summary>
+          <div class="px-6 pb-5 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
+            Quando i contatti arrivano ma si disperdono tra telefono, WhatsApp, email, materiali e passaggi operativi.
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-24">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="bg-primary rounded-[2rem] p-10 lg:p-16 text-white overflow-hidden">
+        <div class="max-w-4xl mx-auto text-center">
+          <span class="uppercase tracking-widest text-xs font-bold text-white/80 mb-4 inline-block">Contatto</span>
+
+          <h2 class="text-4xl lg:text-5xl font-black mb-6 leading-tight">
+            Parti dal modulo giusto.
+          </h2>
+
+          <p class="text-lg lg:text-xl text-white/90 max-w-3xl mx-auto mb-10">
+            Non serve costruire tutto subito. Serve capire qual è il pezzo che oggi ti fa perdere più forza.
+          </p>
+
+          <div class="flex flex-col sm:flex-row flex-wrap justify-center gap-4">
+            <a class="inline-flex items-center justify-center bg-white text-primary px-8 py-4 rounded-xl font-black text-lg hover:opacity-90 transition-all" href="contatti.html">
+              Parla con noi
+            </a>
+
+            <a class="inline-flex items-center justify-center bg-black/15 text-white border border-white/30 px-8 py-4 rounded-xl font-bold text-lg hover:bg-black/20 transition-all" href="tel:3516112099">
+              3516112099
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<footer class="bg-slate-100 dark:bg-slate-950 py-12 border-t border-slate-200 dark:border-slate-900">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-5 gap-10">
+      <div>
+        <div class="flex items-center gap-3 mb-4">
+          <span class="flex h-10 w-10 items-center justify-center rounded-xl bg-primary text-white text-3xl font-black shadow-sm">G</span>
+          <span class="text-lg font-black tracking-tighter uppercase text-slate-900 dark:text-white">GETAWEB</span>
+        </div>
+        <p class="text-sm font-semibold text-slate-900 dark:text-white mb-3">Dall’intenzione all’azione.</p>
+        <p class="text-sm leading-6 text-slate-600 dark:text-slate-400">Per farti trovare. Per farti capire. Per farti contattare.</p>
+      </div>
+      <div>
+        <h3 class="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white mb-4">Navigazione</h3>
+        <nav class="flex flex-col gap-3 text-sm">
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="index.html">Home</a>
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="servizi.html">Servizi</a>
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="territorio.html">Territorio</a>
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="blog.html">Blog</a>
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="contatti.html">Contatti</a>
+        </nav>
+      </div>
+      <div>
+        <h3 class="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white mb-4">Servizi</h3>
+        <nav class="flex flex-col gap-3 text-sm">
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="landing-page.html">Landing page</a>
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="siti-web.html">Siti web</a>
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="e-commerce.html">E-commerce</a>
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="back-office.html">Gestione contatti</a>
+        </nav>
+      </div>
+      <div>
+        <h3 class="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white mb-4">Contatti</h3>
+        <div class="flex flex-col gap-3 text-sm">
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="tel:3516112099">3516112099</a>
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="mailto:info@getaweb.it">info@getaweb.it</a>
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="https://wa.me/393516112099" rel="noopener" target="_blank">WhatsApp</a>
+        </div>
+      </div>
+      <div>
+        <h3 class="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white mb-4">Legale</h3>
+        <div class="flex flex-col gap-3 text-sm">
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="legale.html#privacy">Privacy</a>
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="legale.html#cookie">Cookie</a>
+          <a class="text-slate-600 dark:text-slate-400 hover:text-primary transition-colors" href="legale.html#note-legali">Informazioni legali</a>
+        </div>
+      </div>
+    </div>
+    <div class="mt-8 pt-6 border-t border-slate-200 dark:border-slate-800 flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4 text-sm text-slate-500 dark:text-slate-400">
+      <p>© 2026 GETAWEB.IT DI DICUONZO EMANUELE. Tutti i diritti riservati.</p>
+      <div class="flex flex-col lg:flex-row lg:items-center gap-2 lg:gap-6">
+        <span>P.IVA 04206960041</span>
+        <span>Via San Giovanni Bosco 12, 12022 Busca (CN)</span>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<div class="hidden lg:hidden fixed inset-x-0 top-16 bottom-0 overflow-y-auto border-t border-slate-200 dark:border-slate-800 bg-background-light dark:bg-background-dark z-[60]" id="mobile-menu">
+<div class="px-4 py-6 sm:px-6">
+<div class="flex items-center justify-between mb-6">
+<span class="text-sm font-bold uppercase tracking-widest text-slate-500 dark:text-slate-400">
+        Menu
+      </span>
+<button aria-label="Chiudi menu" class="inline-flex items-center justify-center h-10 w-10 rounded-xl border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors" id="menu-close" type="button">
+<svg aria-hidden="true" class="icon-inline" fill="none" viewbox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-linecap="round" stroke-width="2.2"></path></svg>
+</button>
+</div>
+<nav aria-label="Navigazione mobile" class="flex flex-col gap-2 mb-6">
+<a class="px-4 py-3 rounded-xl text-base font-semibold text-slate-900 dark:text-white hover:bg-slate-100 dark:hover:bg-slate-800" data-nav="home" data-track="nav_click" href="index.html">
+         Home
+      </a>
+<a aria-current="page" class="px-4 py-3 rounded-xl text-base font-semibold text-slate-900 dark:text-white hover:bg-slate-100 dark:hover:bg-slate-800" data-nav="servizi" data-track="nav_click" href="servizi.html">
+         Servizi
+      </a>
+<a class="px-4 py-3 rounded-xl text-base font-semibold text-slate-900 dark:text-white hover:bg-slate-100 dark:hover:bg-slate-800" data-nav="territorio" data-track="nav_click" href="territorio.html">
+         Territorio
+      </a>
+<a class="px-4 py-3 rounded-xl text-base font-semibold text-slate-900 dark:text-white hover:bg-slate-100 dark:hover:bg-slate-800" data-nav="blog" data-track="nav_click" href="blog.html">
+         Blog
+      </a>
+<a class="px-4 py-3 rounded-xl text-base font-semibold text-slate-900 dark:text-white hover:bg-slate-100 dark:hover:bg-slate-800" data-nav="contatti" data-track="nav_click" href="contatti.html">
+         Contatti
+      </a>
+</nav>
+<div class="flex flex-col gap-3">
+<a class="inline-flex items-center justify-center bg-primary text-white px-5 py-3 rounded-xl text-base font-bold" data-cta="parla-con-noi" data-track="header_cta_click" href="contatti.html">
+        Parla con noi
+      </a>
+<a class="inline-flex items-center justify-center border border-slate-200 dark:border-slate-700 px-5 py-3 rounded-xl text-base font-semibold text-slate-900 dark:text-white" data-contact="phone" data-track="contact_click" href="tel:3516112099">
+        3516112099
+      </a>
+<a class="inline-flex items-center justify-center border border-slate-200 dark:border-slate-700 px-5 py-3 rounded-xl text-base font-semibold text-slate-900 dark:text-white" data-contact="email" data-track="contact_click" href="mailto:info@getaweb.it">
+        info@getaweb.it
+      </a>
+</div>
+</div>
+</div>
+
+<script>
+document.querySelectorAll("[data-track]").forEach(el => {
+  el.addEventListener("click", function () {
+    const eventName = el.dataset.track;
+
+    if (typeof gtag === "function") {
+      gtag("event", eventName, {
+        cta: el.dataset.cta || "",
+        nav: el.dataset.nav || "",
+        contact: el.dataset.contact || "",
+        faq: el.dataset.faq || ""
+      });
+    }
+  });
+});
+</script>
+<script>
+document.querySelectorAll("details[data-track='faq_open']").forEach(faq => {
+  faq.addEventListener("toggle", function () {
+    if (faq.open && typeof gtag === "function") {
+      gtag("event", "faq_open", {
+        faq: faq.dataset.faq || ""
+      });
+    }
+  });
+});
+</script>
+<script>
+const serviziSection = document.querySelector("#servizi");
+
+if (serviziSection && typeof gtag === "function") {
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        gtag("event", "view_servizi_section");
+        observer.disconnect();
+      }
+    });
+  });
+
+  observer.observe(serviziSection);
+}
+</script>
+<script>
+let scrollTracked75 = false;
+
+window.addEventListener("scroll", function () {
+  if (
+    !scrollTracked75 &&
+    window.scrollY + window.innerHeight >= document.documentElement.scrollHeight * 0.75
+  ) {
+    scrollTracked75 = true;
+
+    if (typeof gtag === "function") {
+      gtag("event", "scroll_75");
+    }
+  }
+});
+</script>
+
+<script>
+const menuBtn = document.getElementById("menu-btn");
+const mobileMenu = document.getElementById("mobile-menu");
+const menuClose = document.getElementById("menu-close");
+const menuIcon = document.getElementById("menu-icon");
+
+if (menuBtn && mobileMenu) {
+  const toggleMenu = (forceClose = false) => {
+    const isHidden = mobileMenu.classList.contains("hidden");
+
+    if (isHidden && !forceClose) {
+      mobileMenu.classList.remove("hidden");
+      menuBtn.setAttribute("aria-expanded", "true");
+      if (menuIcon) menuIcon.innerHTML = `<svg class="icon-inline" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>`;
+      document.body.style.overflow = "hidden";
+    } else {
+      mobileMenu.classList.add("hidden");
+      menuBtn.setAttribute("aria-expanded", "false");
+      if (menuIcon) menuIcon.innerHTML = `<svg class="icon-inline" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>`;
+      document.body.style.overflow = "";
+    }
+  };
+
+  menuBtn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    toggleMenu();
+  });
+
+  if (menuClose) {
+    menuClose.addEventListener("click", () => toggleMenu(true));
+  }
+
+  mobileMenu.querySelectorAll("a").forEach(link => {
+    link.addEventListener("click", () => toggleMenu(true));
+  });
+
+  document.addEventListener("click", (e) => {
+    if (!mobileMenu.classList.contains("hidden") && !mobileMenu.contains(e.target) && e.target !== menuBtn) {
+      toggleMenu(true);
+    }
+  });
+}
+</script></body>
+</html>
