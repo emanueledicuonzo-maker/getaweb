@@ -1,4 +1,9 @@
 import { useEffect, useMemo } from 'react'
+import { parseLegacyDocument } from './utils/parseLegacyDocument'
+import serviziHtml from '../content/legacy/servizi.html?raw'
+
+export default function ServiziPage() {
+  const parsed = useMemo(() => parseLegacyDocument(serviziHtml, 'Servizi | GETAWEB'), [])
 import serviziHtml from '../content/legacy/servizi.html?raw'
 
 function parseServizi(html: string) {

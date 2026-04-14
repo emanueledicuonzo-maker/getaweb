@@ -1,4 +1,9 @@
 import { useEffect, useMemo } from 'react'
+import { parseLegacyDocument } from './utils/parseLegacyDocument'
+import legaleHtml from '../content/legacy/legale.html?raw'
+
+export default function LegalePage() {
+  const parsed = useMemo(() => parseLegacyDocument(legaleHtml, 'Legale | GETAWEB'), [])
 import legaleHtml from '../content/legacy/legale.html?raw'
 
 function parseLegale(html: string) {

@@ -1,4 +1,9 @@
 import { useEffect, useMemo } from 'react'
+import { parseLegacyDocument } from './utils/parseLegacyDocument'
+import blogHtml from '../content/legacy/blog.html?raw'
+
+export default function BlogPage() {
+  const parsed = useMemo(() => parseLegacyDocument(blogHtml, 'Blog | GETAWEB'), [])
 import blogHtml from '../content/legacy/blog.html?raw'
 
 function parseBlog(html: string) {

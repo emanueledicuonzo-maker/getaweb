@@ -1,10 +1,13 @@
 import { useEffect, useMemo } from 'react'
+import { parseLegacyDocument } from './parseLegacyDocument'
 
 type LegacyPageProps = {
   rawHtml: string
   fallbackTitle: string
 }
 
+export function LegacySourcePage({ rawHtml, fallbackTitle }: LegacyPageProps) {
+  const parsed = useMemo(() => parseLegacyDocument(rawHtml, fallbackTitle), [rawHtml, fallbackTitle])
 function normalizeBody(body: string) {
   return body
     .replaceAll('assets/img/', '/images/')

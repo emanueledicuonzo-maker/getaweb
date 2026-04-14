@@ -1,4 +1,9 @@
 import { useEffect, useMemo } from 'react'
+import { parseLegacyDocument } from './utils/parseLegacyDocument'
+import contattiHtml from '../content/legacy/contatti.html?raw'
+
+export default function ContattiPage() {
+  const parsed = useMemo(() => parseLegacyDocument(contattiHtml, 'Contatti | GETAWEB'), [])
 import contattiHtml from '../content/legacy/contatti.html?raw'
 
 function parseContatti(html: string) {
@@ -35,6 +40,7 @@ export default function ContattiPage() {
     }
   }, [parsed.title, parsed.description])
 
+  return <main dangerouslySetInnerHTML={{ __html: parsed.body }} />
   return (
     <>
       <main dangerouslySetInnerHTML={{ __html: parsed.body }} />
